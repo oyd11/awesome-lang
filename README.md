@@ -1,0 +1,46 @@
+# awesome-lang
+Awesome list, curated language learning resources
+[ so far a stub ]
+
+see: intent - curate lists for (natural) language learning, with the same guidelines of 
+the (mostly) programming related lists curated in
+https://github.com/sindresorhus/awesome/
+
+
+
+
+## Russian
+
+Word-Of-The-Day sentences with Audio:
+http://www.transparent.com/word-of-the-day/today/russian.html
+http://www.innovativelanguage.com/word-of-the-day/russian
+
+
+podcast
+http://russianpodcast.eu
+taste-of-russian:
+http://www.torpod.com/
+
+
+Videos:
+
+Target language videos, with subtitles in both Russian an English:
+Maria Zdorovetskaya
+https://www.youtube.com/channel/UCCdC-MqeDAEDvADQnAtGZzw
+https://www.youtube.com/playlist?list=PLPfkrdsLB-v7n_u4G5dFOhpeZ86MP8CJ9
+
+## Polish
+
+piotr
+
+## Mandarin (Chinese)
+
+videos:
+Active chinese:
+https://www.youtube.com/channel/UC7p25TOWL50s3_hPV6P1pSg
+
+https://ninchanese.com/
+https://www.youtube.com/user/MandarinHQ/playlists
+
+Lessons with audio:
+http://www.chinese-tools.com/learn/chinese
