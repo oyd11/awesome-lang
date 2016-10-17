@@ -44,3 +44,8 @@ https://www.youtube.com/user/MandarinHQ/playlists
 
 Lessons with audio:
 http://www.chinese-tools.com/learn/chinese
+
+## Tagalog / Filipino 
+http://learningtagalog.com
+
+
