@@ -6,6 +6,10 @@ see: intent - curate lists for (natural) language learning, with the same guidel
 the (mostly) programming related lists curated in
 https://github.com/sindresorhus/awesome/
 
+# multiple-langauges, including less well resourced
+[book2.de] 
+[https://www.jw.org] - The bible - in many languages, parallel interlaced text on mobile app
+[https://www.jw.org/en/publications/videos/#categories/AllVideos] and bible related videos in many languages
 
 
 
@@ -28,6 +32,7 @@ Target language videos, with subtitles in both Russian an English:
 Maria Zdorovetskaya
 https://www.youtube.com/channel/UCCdC-MqeDAEDvADQnAtGZzw
 https://www.youtube.com/playlist?list=PLPfkrdsLB-v7n_u4G5dFOhpeZ86MP8CJ9
+
 
 ## Polish
 
@@ -53,6 +58,11 @@ http://learningtagalog.com
 http://www.persianlanguageonline.com/learn/  - " Persian Language Foundation"/London - Videos with transcriptions [ Youtube:: https://www.youtube.com/channel/UCYurcZ-psXThVoiJNYEei1g/playlists ]
 
 http://www.jahanshiri.ir/ - Grammar 
+
+## Tigrinya 
+http://modersmal.skolverket.se/tigrinya/
+[memhr.org/dic/]
+[geezexperience.com]
 
 
 
