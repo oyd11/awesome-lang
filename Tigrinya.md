@@ -28,6 +28,7 @@
 ## Podcasts in Tigrinya
 
 * SBS radio
+* VOA Tigrinya 
 
 ## 
 
