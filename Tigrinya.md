@@ -25,11 +25,6 @@
 
 ## Learning Podcasts
 
-## Podcasts in Tigrinya
-
-* SBS radio
-* VOA Tigrinya 
-
 ## Dictionaries phrasebooks (online)
 
  * Tatoeba: https://tatoeba.org/eng/sentences/show_all_in/tir/und/ 
@@ -51,6 +46,20 @@ http://modersmal.skolverket.se/tigrinya/
 [memhr.org/dic/]
 [geezexperience.com]
 
+# Media: 
+
+## Podcasts in Tigrinya
+
+* SBS radio
+* VOA Tigrinya 
+
 ## Videos
 
  * Eritrean refugees telling stories, Tigrinya with English subtitles: https://www.youtube.com/watch?v=zWxxSGuURx0&index=19&list=PL4x_SEnx5vQx9fjT3XobF6Q0XZXTfapie
+ 
+## Children books / books with translations:
+
+ * Pipi-Longstockings
+ * The little prince
+ 
+
