@@ -30,7 +30,21 @@
 * SBS radio
 * VOA Tigrinya 
 
-## 
+## Dictionaries phrasebooks (online)
+
+ * Tatoeba: https://tatoeba.org/eng/sentences/show_all_in/tir/und/ 
+ * geezexperience.com
+ * www.memhr.org/dic/
+ * Lexin : Picture-dictionary : http://clu.uni.no/bildetema/ :
+   (bildetema) From Swedish/Norwegian/Danish - Tigrinja :
+   [ tip: you can keep two windows open : Swedish-Tigrinya + Swedish-English for example ] 
+   [ for now the Flash version is more usable than the HTML5 version ] 
+   ** http://lexin.nada.kth.se/lang/trio/ti/tigrinya.htm  [ the tigrinya version is buggy - we should write them, when switching the the English view, it replaces "Tigrinya" with "Sami" ( Sámegiella  )  
+   
+  * Book2 Geothe - Audio-Course + online phrasebook, many language pairs:  http://www.goethe-verlag.com/book2/ 
+  * DLIFLC - audio-course + phrasebook : http://fieldsupport.dliflc.edu/ - Defense Language Institute (DLI) - language survival kits
+
+## ??
 
 
 http://modersmal.skolverket.se/tigrinya/
