@@ -15,10 +15,11 @@
 * under-resourced
 
 ## Textbooks and grammars
-*
-*
-*
-*
+
+ *
+ *
+ *
+ *
 
 ## Learning Podcasts
 
@@ -32,4 +33,6 @@ http://modersmal.skolverket.se/tigrinya/
 [memhr.org/dic/]
 [geezexperience.com]
 
+## Videos
 
+ * Eritrean refugees telling stories, Tigrinya with English subtitles: https://www.youtube.com/watch?v=zWxxSGuURx0&index=19&list=PL4x_SEnx5vQx9fjT3XobF6Q0XZXTfapie
