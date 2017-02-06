@@ -10,20 +10,23 @@
 
 ## Language vitality - and study resources:
 
-* vital
-* national status (Eritrea) , regional status (Tigray-region Ethiopia)
-* under-resourced
+ * vital
+ * national status (Eritrea) , regional status (Tigray-region Ethiopia)
+ * under-resourced
 
 ## Textbooks and grammars
 
+ * Mason, Grammar
+ * Tigrinya Reader And Grammar: Mulugetta Girmay Melles
+ * Gir?Zion - English through Tigrinya
  *
- *
- *
- *
+ 
+## Bilingual books
 
 ## Learning Podcasts
 
 ## Podcasts in Tigrinya
+
 * SBS radio
 
 ## 
