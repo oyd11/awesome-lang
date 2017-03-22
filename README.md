@@ -29,6 +29,9 @@ http://russianpodcast.eu
 taste-of-russian:
 http://www.torpod.com/
 
+Business Russian Podcasts :: UCLA Dr Anna Kudyma
+http://web.international.ucla.edu/cwl/news/businessrussian
+
 
 Videos:
 
