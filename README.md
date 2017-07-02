@@ -15,61 +15,8 @@ https://github.com/sindresorhus/awesome/
 * [EuroRomCom Data](https://github.com/kirkins/euroromcom) - JSON formatted Pan-Romance word lists & learning activities.
 
 
-## Russian
-
-Word-Of-The-Day sentences with Audio:
-http://www.transparent.com/word-of-the-day/today/russian.html
-http://www.innovativelanguage.com/word-of-the-day/russian
-
-Audio + online lessons: 
-http://www.russianforfree.com/ - texts read out with audio at all levels, nice grammar lessons. (free)
-
-podcast
-http://russianpodcast.eu
-taste-of-russian:
-http://www.torpod.com/
-
-Business Russian Podcasts :: UCLA Dr Anna Kudyma
-http://web.international.ucla.edu/cwl/news/businessrussian
 
 
-Videos:
-
-Target language videos, with subtitles in both Russian an English:
-Maria Zdorovetskaya
-https://www.youtube.com/channel/UCCdC-MqeDAEDvADQnAtGZzw
-https://www.youtube.com/playlist?list=PLPfkrdsLB-v7n_u4G5dFOhpeZ86MP8CJ9
-
-
-## Polish
-
-http://realpolish.pl/ - Piotr's podcasts
-
-
-## Mandarin (Chinese)
-
-videos:
-Active chinese:
-https://www.youtube.com/channel/UC7p25TOWL50s3_hPV6P1pSg
-
-https://ninchanese.com/
-https://www.youtube.com/user/MandarinHQ/playlists
-
-Lessons with audio:
-http://www.chinese-tools.com/learn/chinese
-
-## Tagalog / Filipino 
-http://learningtagalog.com
-
-## Farsi / Persian
-http://www.persianlanguageonline.com/learn/  - " Persian Language Foundation"/London - Videos with transcriptions [ Youtube:: https://www.youtube.com/channel/UCYurcZ-psXThVoiJNYEei1g/playlists ]
-
-http://www.jahanshiri.ir/ - Grammar 
-
-## Tigrinya 
-http://modersmal.skolverket.se/tigrinya/
-[memhr.org/dic/]
-[geezexperience.com]
 
 
 

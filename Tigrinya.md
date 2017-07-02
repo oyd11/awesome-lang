@@ -62,4 +62,8 @@ http://modersmal.skolverket.se/tigrinya/
  * Pipi-Longstockings
  * The little prince
  
+## Dictionaries
+http://modersmal.skolverket.se/tigrinya/
+[memhr.org/dic/]
+[geezexperience.com]
 
