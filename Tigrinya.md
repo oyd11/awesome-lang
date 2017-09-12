@@ -16,7 +16,8 @@
 
 ## Textbooks and grammars
 
- * Mason, Grammar
+ * A Comprehensive Tigrinya Grammar: Amanuel Sahle
+ * Tigrinya Grammar: George Mason 
  * Tigrinya Reader And Grammar: Mulugetta Girmay Melles
  * Gir?Zion - English through Tigrinya
  *
@@ -39,12 +40,23 @@
   * Book2 Geothe - Audio-Course + online phrasebook, many language pairs:  http://www.goethe-verlag.com/book2/ 
   * DLIFLC - audio-course + phrasebook : http://fieldsupport.dliflc.edu/ - Defense Language Institute (DLI) - language survival kits
 
-## ??
+
+## Input Methods (Keyboards)
+
+ * GeezIME for Windows: http://geezlab.com/geezime_windows/
+ * GeezIME for Android: http://geezlab.com/geezime_android/
+ * GeezIME Online: http://type.geezlab.com/
+ * Yaga (cross platform text processor): http://geezlab.com/geez_yaga/
+
+ 
+## Online Translation Service
+
+ * Geez Translate (alpha version): http://translate.geezlab.com/
 
 
-http://modersmal.skolverket.se/tigrinya/
-[memhr.org/dic/]
-[geezexperience.com]
+## Mobile Apps
+ * www.geezlab.com
+
 
 # Media: 
 
@@ -63,7 +75,7 @@ http://modersmal.skolverket.se/tigrinya/
  * The little prince
  
 ## Dictionaries
-http://modersmal.skolverket.se/tigrinya/
-[memhr.org/dic/]
-[geezexperience.com]
+ * http://modersmal.skolverket.se/tigrinya/
+ * http://memhr.org/dic/
+ * http://geezexperience.com
 
