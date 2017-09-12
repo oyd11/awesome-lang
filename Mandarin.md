@@ -14,3 +14,8 @@ https://www.youtube.com/user/MandarinHQ/playlists
 Lessons with audio:
 http://www.chinese-tools.com/learn/chinese
 
+https://www.thechairmansbao.com - simple news pieces - audio + text, with a vocabulary translation section + grammar
+
+http://zhongwen-chrome.blogspot.com - Zhongwen: Chinese-English Dictionary 
+- character popup + PinYin + translation
+
