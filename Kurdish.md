@@ -38,3 +38,27 @@ http://rojavaplan.com/uploads/kurdish/kurmanji-basic.pdf
 ### Podcasts:
 
 http://www.sbs.com.au/yourlanguage/kurdish
+
+## Sorani
+
+http://www.kurdishcentral.org
+
+
+## Any
+
+https://sites.fas.harvard.edu/~iranian/
+Grammar - Kurmanji / Sorani 
+
+[
+Introduction to Old Persian by P. Oktor Skjærvø
+Introduction to Manichaean Sogdian by P. Oktor Skjærvø
+Sorani Kurdish: A Reference Grammar with Selected Readings by W. M. Thackston
+Kurmanji Kurdish: A Reference Grammar with Selected Readings by W. M. Thackston
+
+]
+
+
+
+ * Glossika : https://ai.glossika.com - includes Sorani for now (Free)
+
+
