@@ -41,8 +41,9 @@ http://www.sbs.com.au/yourlanguage/kurdish
 
 ## Sorani
 
-http://www.kurdishcentral.org
-
+http://www.kurdishcentral.org/en/
+ Grammar - (downloadable PDFs)  http://www.kurdishcentral.org/en/grammar-resources-sp [ Kim, Danielle H., A Basic Guide to Kurdish Grammar: A Self-Study Reference and Practice Book. كتێبی ڕێزمانی كوردی. p 89. 2010 Particularly designed for language learners.
+Thackston, W. M. Sorani Kurdishː A Reference Grammar with Selected Readings. 90p. A scholarly linguistic work. ] 
 
 ## Any
 
