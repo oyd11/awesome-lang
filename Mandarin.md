@@ -19,3 +19,8 @@ https://www.thechairmansbao.com - simple news pieces - audio + text, with a voca
 http://zhongwen-chrome.blogspot.com - Zhongwen: Chinese-English Dictionary 
 - character popup + PinYin + translation
 
+
+Beginner:
+https://www.simplang.com/chinese/lessons.php?dialogue=6
+
+
