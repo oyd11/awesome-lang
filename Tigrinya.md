@@ -40,6 +40,7 @@
   * Book2 Geothe - Audio-Course + online phrasebook, many language pairs:  http://www.goethe-verlag.com/book2/ 
   * DLIFLC - audio-course + phrasebook : http://fieldsupport.dliflc.edu/ - Defense Language Institute (DLI) - language survival kits
 
+ * Android app : ("Tigrinya Word Book - ትግርኛ")[https://play.google.com/store/apps/details?id=com.myappbooks.tigrinyawordbook]  (by https://play.google.com/store/apps/developer?id=App+Books )
 
 ## Input Methods (Keyboards)
 
