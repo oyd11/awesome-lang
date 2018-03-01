@@ -18,6 +18,10 @@
  * Assimil
  * Innovative Language 400 Actions
  * "Book2" / "50 Languages" / Goethe Verlag
+ * DliFlc : http://fieldsupport.dliflc.edu - LSK (Language Survival Kits) - audio-phrasebooks - in many languages:
+  ** list : http://www.dliflc.edu/language-survival-kits-lsk/ :
+  **  [ Albanian Algerian Amharic Azeri Bahasa Baluchi Bengali Bosnian Bulgarian Burmese Cantonese Cebuano Chavacano Croatian Czech Dari Egyptian Emirati French Gan Georgian Gujarati Haitian Hassaniya Hausa Hebrew Hindi Igbo Ilocano Iraqi Italian Japanese Javanese Jordanian Kashmiri Kazakh Khmer Korean-(North) Kosovar Kurmanji Kyrgyz Lebanese Libyan Lingala Malay Mandarin Modern-Standard-Arabic-(MSA) Mongolian Moroccan Nepali Palestinian Pashto-(Afghanistan) Pashto-(Pakistan) Persian-Farsi Polish Portuguese-(Angola) Portuguese-(Brazil) Portuguese-(European) Punjabi Quechua Romanian Russian Saudi Serbian Sindhi Somali Sorani Spanish-(Colombia) Spanish-(Mexico) Spanish-(Venezuela) Sudanese Swahili Syrian Tagalog Tajik Tamashek Tamil Tausug Telugu Thai Tigrinya Tunisian Turkish Turkmen Uighur Urdu Uzbek Vietnamese Wu Yakan Yemeni Yoruba ] 
+ * https://www.livelingua.com Index: - "FSI courses" , "Peace Corps Language Courses", "DLI Language Courses"
  * Colloquial Routeledge - free audio online (textbooks for sell)
 
 ### Podcasts
