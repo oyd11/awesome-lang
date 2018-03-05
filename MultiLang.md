@@ -28,7 +28,20 @@
  * Innovative Language
 
 ### Textbooks
- * Colloquial
+ * Colloquial (free audio-tracks online)
+  http://www.routledgetextbooks.com/textbooks/colloquial/
+  ('Asia':   Arabic (Levantine, Egypt, Gulf) Bengali Burmese Cambodian Cantonese Chinese(Mandarin) Gujarati Hebrew Hindi Indonesian Japanese Kazakh Korean Malay Mongolian Panjabi Persian Russian Tamil Thai Tibetan Turkish Urdu Vietnamese )
+  ('Africa':   Afrikaans Amharic Arabic Swahili Somali Yoruba ) 
+  ('Europe':   Albanian Basque Breton Bulgarian Catalan Croatian Czech Danish Dutch English Estonian Finnish French German Greek Hungarian Icelandic Irish Italian Latvian Lithuanian Norwegian Polish Portuguese Romanian Russian Scottish Gaelic Serbian Slovak Slovene Spanish Swedish Ukrainian Welsh Yiddish)
+  ('South-America' :    Portuguese(Brazil)
+  Spanish(Latin-America) ) 
+
+  "To be released soon - March 2018" : 
+  "Colloquial Filipino / Cynthia Aban"
+   
+
+
+
 
  * Teach-Yourself
 
