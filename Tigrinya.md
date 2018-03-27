@@ -5,7 +5,7 @@
 (TODO: Tags, etc)
 ## About:
 * ISO_639-2 code: tir
-* Scripts: Ge'ez script (ግዕዝ)
+* Scripts: Ge'ez script (ግዕዝ) aka fidel
 * Latinizations:
 
 ## Language vitality - and study resources:
