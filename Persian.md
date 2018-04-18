@@ -5,7 +5,7 @@ http://www.persianlanguageonline.com/learn/  - " Persian Language Foundation"/Lo
 http://www.jahanshiri.ir/ - Grammar 
 
 
-https://www.youtube.com/channel/UCYRyoX3ru_BfMiXVCGgRS6w / http://farsitutor.blogspot.com - 
+https://www.youtube.com/channel/UCYRyoX3ru_BfMiXVCGgRS6w / http://www.learnpersianonline.com/farsi-tutor-reza/ - 
 Farsi Tutor Reza Nazari - youtube channel and blog by Reza Nazari - author of many Persian textbooks ("Learn Farsi in 100 Days", "Learn to Speak Persian Fast") 
 
 
