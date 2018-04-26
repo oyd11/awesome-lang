@@ -21,3 +21,6 @@ Maltese.md
 ArabicEgypt.md
 
 ArabicMeghrabi.md
+
+
+https://www.mezzoguild.com/best-arabic-listening-resources/
