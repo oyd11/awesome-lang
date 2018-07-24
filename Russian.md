@@ -25,3 +25,8 @@ https://www.youtube.com/channel/UCCdC-MqeDAEDvADQnAtGZzw
 https://www.youtube.com/playlist?list=PLPfkrdsLB-v7n_u4G5dFOhpeZ86MP8CJ9
 
 
+ StarMediaEN: TV series - with English subs - documentaries, and other
+https://www.youtube.com/channel/UCuSx-lf2ft7hPceGVNHybOw/playlists
+see : https://blog.glossika.com/tips-on-learning-russian/
+
+

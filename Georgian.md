@@ -19,3 +19,11 @@ http://www.50languages.com/book2/EN/ENKA/ENKA-all.zip
  * DLI "LSK" - Language-Survival-Kit [ http://fieldsupport.dliflc.edu/ ] - Their website keeps on changing, but this is highly valuable audio material - basically phrasebooks for various "army" situations, especially the beginning of the 'medical' chapter. It start with "do not move or I will shot" - but gets to the very useful "Do you understand this language?" , "thank you for talking to me" , etc
 Luckily - they have Georgian as well now (and many other 'rarer' languages), recordings are high quality, and there's a plus that these are not 'adapted' phrases, they are usually quite natural (and read at natural speed - repeated slowly )  [ they also release mobile apps for these occasionally ]  
  * Glossika - so Glossika's released a Georgian course - I bought it when it was available - it was "too advanced" for me to be really accessible at the time  (I'm happily using Glossika with Finnish were I have more background) , they took it off-line - back to production, both the audio had some background noises occasionally - and by their website - it's in re-translation now. If you mail them - maybe you can get a temporary version of their "Fluency 1" Module (first 1000 sentences), I think it's ideal for when you start the lower-intermediate level.
+
+Georgian with Roni ::
+ https://www.facebook.com/Learn-Georgian-with-Roni-997531783665453/
+ https://www.youtube.com/channel/UCFsR72e5e4Qb4fPLSb_nLYA
+
+
+
+

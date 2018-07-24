@@ -14,3 +14,7 @@ Nazım Hikmet
 http://yukselgoknel.com/ - alot of Turkish grammar notes: "Turkish grammar Updated Academic Edition" / Yüksel Göknel, PDF of his book avalialble as wikimedia common sources
 
 
+Film: 
+ * comedies:  Cem Yılmaz:  GORA (2004) , AROG (2008)
+
+

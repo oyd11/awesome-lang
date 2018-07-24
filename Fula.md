@@ -2,7 +2,7 @@
 Fula / Pular / Pulaar :
 
 
- + http://ibamba.net/pular/
+ + http://ibamba.net/pular/ -   'fun' with comics Guinea dialect : Midho Waawi Pular! Learner's Guide to Pular (Fuuta Jallon) - free PDF manual 
 
  + https://www.livelingua.com/project/fsi/Fula/
 

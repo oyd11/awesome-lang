@@ -17,6 +17,8 @@
 
  * Assimil
  * Innovative Language 400 Actions
+ * https://survivalphrases.com/ - Innovative - 27 languages
+ * http://www.surfacelanguages.com/
  * "Book2" / "50 Languages" / Goethe Verlag
  * DliFlc : http://fieldsupport.dliflc.edu - LSK (Language Survival Kits) - audio-phrasebooks - in many languages:
   ** list : http://www.dliflc.edu/language-survival-kits-lsk/ :
@@ -26,6 +28,29 @@
 
 ### Podcasts
  * Innovative Language
+
+ * evangalist radio AWR: Adventist World Radio (many many langauge)
+ awr.org
+ https://www.twr.org/
+
+
+ Index of Evangalist Radio/Video in many languages:
+ https://www.mylanguagemylife.com/languages/african/-tigrinya
+ https://www.mylanguagemylife.com/languages/african/isixhosa-xhosa
+
+bible study group:: (pdf's)
+http://www.sabbathschoolpersonalministries.org/international
+( Xhosa English parallel texts, english audio)
+
+https://egwwritings.org/singleframe.php
+
+https://joshuaproject.net/people_groups/15481/ER
+
+Christian radio ::
+http://www.ttb.org/global-reach/regions-languages/languages/tigrinya
+
+for example : tigrinya http://ttb.twr.org/tigrinya http://ttb.twr.org/ twi  http://ttb.twr.org/twi [ incl Zulu malagasy , ]
+
 
 ### Textbooks
  * Colloquial (free audio-tracks online)
@@ -46,6 +71,8 @@
  * Teach-Yourself
 
 
+
+
 ## TODO:
  * Maybe process this automatically into the target languages ?
  * or work with tags?
@@ -54,3 +81,5 @@
 
 
 Here we go:
+
+

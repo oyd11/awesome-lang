@@ -12,3 +12,10 @@ http://www.unlimitedspanish.com - 'Natural language learning' style - only targe
 
 
 
+podcasts: 
+
+
+https://blog.glossika.com/7-great-spanish-podcasts-to-help-improve-your-spanish/
+
+ - to be verified ..
+
