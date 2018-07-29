@@ -19,3 +19,8 @@ https://blog.glossika.com/7-great-spanish-podcasts-to-help-improve-your-spanish/
 
  - to be verified ..
 
+## Videos lessons - Spanish-Spanish 
+
+https://www.facebook.com/pg/AILMadridSpanish/videos/?ref=page_internal
+
+https://www.facebook.com/jesus.madrid.566/videos
