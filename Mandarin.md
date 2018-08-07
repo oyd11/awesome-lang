@@ -22,5 +22,6 @@ http://zhongwen-chrome.blogspot.com - Zhongwen: Chinese-English Dictionary
 
 Beginner:
 https://www.simplang.com/chinese/lessons.php?dialogue=6
-
+ 
+https://chinese.yabla.com/chinese-pinyin-chart.php - audio full PinYin chart !
 

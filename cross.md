@@ -13,3 +13,25 @@
 
 
 
+* [http://ikindalikelanguages.com/labs/courses.php] -  Afrikaans Arabic Basque Belorussian Chinese Czech Dutch Estonian Esperanto Finnish French German Greek Hungarian Icelandic Interlingua Italian Japanese Korean Latin Latvian Lithuanian Norwegian Polish Portuguese Romanian Russian Spanish Swedish Turkish Ukrainian Uzbek Vietnamese Yiddish
+
+
+https://interlinearbooks.com/#books - Paid, English 'interlinear' books (like Ilya Frank's) - in FRENCH GERMAN GREEK SPANISH LITHUANIAN POLISH PORTUGUESE RUSSIAN SWEDISH
+
+https://interlinearbooks.com/library/ - free short interlinear texts [ in : danish french german italian japanese latin lithuanian norwegian potuguese russian sambahsa spanish swedish and yiddish ]
+
+
+* https://en.wikipedia.org/wiki/Natural_semantic_metalanguage - '65 words' - minimal meta language mapping (including 'minimal english')
+* https://intranet.secure.griffith.edu.au/schools-departments/natural-semantic-metalanguage/downloads - mapping the '65 core concepts' to : 
+Amharic  Cantonese  Cèmuhi  Danish  English  Ewe  Farsi  Finnish  French  German  Italian  Japanese  Kigiriyama  Korean  Longgu  Mandarin Chinese  Polish  Russian  Serbian  Spanish  Trini  Vietnamese  Wolof 
+
+http://www.scriveremo.com
+
+
+HippoCrene - Beginner's with Online Audio
+http://www.hippocrenebooks.com/store/c77/Beginner%27s_with_Online_Audio.html [ currently - Albanian Serbian Welsh Finnish Yoruba Ladino ] - audio mp3 is freely available - textbooks - are not bad. (more languages with CD audio, that will hopefully also be online soon, even when buying the textbooks, CD's are hard to read these days - finding an old machine suitable for conversion ) [ bengali russian georgian basque icelandic chinese-mandarin brazilian-portuguese ukrainian croatian czech danish dari  dutch persoam hungarian japanese irish korean norwegian  ] 
+
+
+
+
+
