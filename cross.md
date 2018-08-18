@@ -35,3 +35,9 @@ http://www.hippocrenebooks.com/store/c77/Beginner%27s_with_Online_Audio.html [ c
 
 
 
+https://www.pimsleur.com/c/pimsleur-lost-and-found - Pimsleur "Lost and Found" booklets for their various courses
+
+
+
+
+

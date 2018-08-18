@@ -79,3 +79,9 @@
  * http://modersmal.skolverket.se/tigrinya/
  * http://memhr.org/dic/
  * http://geezexperience.com
+
+
+ http://clu.uni.no/prod/bildetema-portal/index.html?page=simple-html5&version=swedish
+
+
+
