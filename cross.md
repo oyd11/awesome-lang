@@ -41,3 +41,16 @@ https://www.pimsleur.com/c/pimsleur-lost-and-found - Pimsleur "Lost and Found" b
 
 
 
+https://www.languagetransfer.org/  - Language-Transfer - on soundcloud and youtube. Kind of a weird audiocourse were there's an English led dialog between two students (?) 
+https://soundcloud.com/languagetransfer - but - it's a free audio resource - contains a growing list of languages - including some 'less common' (Swahili, Turkish, Egyptian-Arabic, Greek, Spanish, French, Italian )
+
+
+https://www.rfa.org/ - US-goverment online Radio (a bit 'too' political, but still) - radio broadcast in the following languages : 
+CH. 1: MANDARIN | CANTONESE , CH. 2: VIETNAMESE | BURMESE | KOREAN, CH. 3: KHMER | LAO | UYGHUR , CH. 4: TIBETAN
+
+
+
+http://www.fsi-language-courses.net - 72 langauges , FSI courses, including Tagalog
+
+
+
