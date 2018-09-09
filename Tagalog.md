@@ -44,8 +44,6 @@ Video  channels :
 
 
 
-
-
-
+http://www.tuttlepublishing.com/tagalog-for-beginners-downloadable-cd-content
 
 

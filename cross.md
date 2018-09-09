@@ -53,4 +53,10 @@ CH. 1: MANDARIN | CANTONESE , CH. 2: VIETNAMESE | BURMESE | KOREAN, CH. 3: KHMER
 http://www.fsi-language-courses.net - 72 langauges , FSI courses, including Tagalog
 
 
+https://www.tuttlepublishing.com/downloadable-content - Audio tracks for : Tagalog, Japanese, Mandarin Chinese, Vietnamese, Persian (Farsi) , Hindi , Lao, Thai, Arabic-stories 
+
+
+https://fsi-languages.yojik.eu/ - FSI, DLI and Peace-Corps course 
+
+
 
