@@ -22,3 +22,10 @@ https://www.integrationresearch.net/uploads/1/3/0/7/1307353/circassians_in_jorda
 
 
 
+
+https://www.optilingo.com - Jonty Yamisha's websites 
+
+https://sites.google.com/a/adighas.com/global-gwazha/home
+
+
+

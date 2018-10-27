@@ -7,6 +7,8 @@ Vasil Todorov / NSA - Vasil Levski / Tetiana Topal
 
 
 "Аз уча български"
+I learn Bulgarian lesson 1 (Аз уча Български урок 1) TV series by Bulgarian national television
+
 https://www.youtube.com/watch?v=9NC5zumL2yM&list=PLnEXbUSPy8Rslhj5xJeTb3mT9pqpLOl5N
 
 https://www.bnt.bg/bg
