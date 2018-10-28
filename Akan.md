@@ -21,5 +21,11 @@
 
 
 "Introductory Twi (Asante) for Speakers of English"  - Textbook + audio 
-   http://www.ghanaianlanguages.com/
+   http://www.ghanaianlanguages.com/ - missing audio right now!
+
+http://www.akan.org/akan_cd/ALIAKAN/course/U-Akan.html - online -  Akan Teleteaching Course - Authors: Thomas Bearth; Erika Eichholzer; Justin Frempong; Hannes Hirzel 
+http://www.akan.org/akan_cd/ALIAKAN/course/U2-toc-p10.html 
+
+
+
 
