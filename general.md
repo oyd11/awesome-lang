@@ -36,3 +36,7 @@ https://www.transparent.com/personal/transparent-language-online.html#available-
 http://www.berlitzpublishing.com/en/free-download/ - some of the audio to Berlitz courses - Japanese - Mandarin - French - German - Italian - Spanish
 
 
+
+http://polymath.org - useful (text) quite phrasebooks - tag: quick-review
+[ Afrikaans, Albanian, Armenian, Azeri, Basque, Belarusian, Bosnian, Brazilian, Bulgarian, Cantonese, Castillano, Catalan, Croatian, Danish, Dutch, Esperanto, Estonian, Farsi, Filipino, Finnish, Flemish, French, Gaelic, Galician, Georgian, German, Greek, Gujarati, Haitian, Hausa, Hebrew, Hindi, Hungarian, Irish, Italian, Japanese, Khmer, Latvian, Lithuanian, Macedonian, Malay, Malayalam, Maltese, Marathi, Nepali, Norwegian, Pashtu, Persian, Portuguese, Romanian, Russian, Serbian, Slovak, Slovene, Somali, Spanish, Mexican, Sundanese, Swahili, Swedish, Tagalog, Tajik, Tamil, Thai, Turkish, Ukrainian, Uzbek, Vietnamese, Welsh, Yoruba ]
+
