@@ -60,3 +60,10 @@ https://fsi-languages.yojik.eu/ - FSI, DLI and Peace-Corps course
 
 
 
+https://shop.hueber.de/en/sprache-lernen/finnisch/einstieg-finnisch-paket.html#musterseiten - Hueber - paid course books (German sourced mostly) - with free audio tracks - Finnish 
+Some children oriented - Tigrinya Farsi  
+
+https://www.hueber.de/audioservice/
+
+
+

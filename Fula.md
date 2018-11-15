@@ -13,3 +13,12 @@ Audio - in the 'Pulaar' sections:
  + https://www.livelingua.com/project/peace-corps/Pulaar/General/
  + https://www.livelingua.com/project/peace-corps/Pulaar/Mauritania/
  + https://www.livelingua.com/project/peace-corps/Pulaar/Gambia/
+
+
+Adlam Alphabet movement : 
+ Ibrahima Barry and Abdoulaye Barry
+https://en.wikipedia.org/wiki/Adlam_(Unicode_block)
+
+
+
+
