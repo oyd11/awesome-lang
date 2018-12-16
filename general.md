@@ -40,3 +40,6 @@ http://www.berlitzpublishing.com/en/free-download/ - some of the audio to Berlit
 http://polymath.org - useful (text) quite phrasebooks - tag: quick-review
 [ Afrikaans, Albanian, Armenian, Azeri, Basque, Belarusian, Bosnian, Brazilian, Bulgarian, Cantonese, Castillano, Catalan, Croatian, Danish, Dutch, Esperanto, Estonian, Farsi, Filipino, Finnish, Flemish, French, Gaelic, Galician, Georgian, German, Greek, Gujarati, Haitian, Hausa, Hebrew, Hindi, Hungarian, Irish, Italian, Japanese, Khmer, Latvian, Lithuanian, Macedonian, Malay, Malayalam, Maltese, Marathi, Nepali, Norwegian, Pashtu, Persian, Portuguese, Romanian, Russian, Serbian, Slovak, Slovene, Somali, Spanish, Mexican, Sundanese, Swahili, Swedish, Tagalog, Tajik, Tamil, Thai, Turkish, Ukrainian, Uzbek, Vietnamese, Welsh, Yoruba ]
 
+Teach-Yourself - TY - http://www.teachyourselfextra.com : 
+ - PDF's for 'get talking' - French German Italian Spanish Arabic Dutch Greek Japanese Mandarin-Chinese Norwegian Portuguese Russian Swedish Thai
+
