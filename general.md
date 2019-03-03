@@ -43,3 +43,6 @@ http://polymath.org - useful (text) quite phrasebooks - tag: quick-review
 Teach-Yourself - TY - http://www.teachyourselfextra.com : 
  - PDF's for 'get talking' - French German Italian Spanish Arabic Dutch Greek Japanese Mandarin-Chinese Norwegian Portuguese Russian Swedish Thai
 
+Rough Guide Phrasebooks - The books are out of print - but Audio is posted free online:
+ * https://www.roughguides.com/phrasebook-downloads/ - Croatian, Hindi Urdu, Portuguese, Czech, Italian, Russian, Dutch, Japanese, Spanish, Latin Spanish, Egyptian Arabic, Swahili, French, Mandarin Chinese, Thai, German, Mexican Spanish, Greek, Turkish, Polish, Vietnamese 
+
