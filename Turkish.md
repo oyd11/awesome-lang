@@ -14,6 +14,9 @@ https://turkishteatime.com - free podcast + paid content
 
 http://yukselgoknel.com/ - alot of Turkish grammar notes: "Turkish grammar Updated Academic Edition" / Yüksel Göknel, PDF of his book avalialble as wikimedia common sources
 
+https://turkishexplained.com/renkler.htm Grammar and vocabulary: (text) 
+
+
 
 Film: 
  * comedies:  Cem Yılmaz:  GORA (2004) , AROG (2008)
