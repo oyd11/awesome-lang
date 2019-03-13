@@ -8,6 +8,10 @@ https://cromwell-intl.com/turkish/turkish-suffixes.html
 https://www.dnathan.com/language/turkish/tsd/ - The Turkish Suffix Dictionary    	
 Nice resource, sorted by either: Suffix, Formula, Function, more organized, but less suffixes are present here.
 
+https://en.wiktionary.org/wiki/Category:Turkish_suffixes
+
+https://www.turkishexplained.com/ki.htm
+
 http://yukselgoknel.com/ - alot of Turkish grammar notes: "Turkish grammar Updated Academic Edition" / Yüksel Göknel, PDF of his book avalialble as wikimedia common sources
 
 http://www.turkishclass.com/poem_206 - Turkish Poetry - with learner oriented English translation
@@ -37,4 +41,16 @@ http://turkishbasics.com/verbs/can.php - "Turkish Basics provides elementary lan
 
 
 https://www.reddit.com/r/turkishlearning/comments/4zz90b/useful_resources_for_learning_turkish/
+
+
+http://www.yeminlisozluk.com/ Songs Videos - in Turkish - with Text and English translation
+
+https://handsonturkish.com/first-steps-turkish/
+
+
+http://www.turkiclanguages.com/
+
+http://titus.uni-frankfurt.de/didact/karten/turk/turklm.htm - map of the Turkic languages (geography) 
+
+
 
