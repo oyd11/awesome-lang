@@ -2,8 +2,11 @@
 
 https://www.simplang.com/turkish/
 
+https://cromwell-intl.com/turkish/turkish-suffixes.html
+"The best book is Geoffrey L. Lewis' excellent Turkish Grammar. My attempt in these pages is to put together a heavily compressed summary of his textbook"
+
 https://www.dnathan.com/language/turkish/tsd/ - The Turkish Suffix Dictionary    	
-Nice resource, sorted by either: Suffix, Formula, Function 
+Nice resource, sorted by either: Suffix, Formula, Function, more organized, but less suffixes are present here.
 
 http://yukselgoknel.com/ - alot of Turkish grammar notes: "Turkish grammar Updated Academic Edition" / Yüksel Göknel, PDF of his book avalialble as wikimedia common sources
 
@@ -29,8 +32,6 @@ Short Grammars online:
 
 http://turkishbasics.com/verbs/can.php - "Turkish Basics provides elementary language resources to learners of the Turkish language"
 
-https://cromwell-intl.com/turkish/turkish-suffixes.html
-"The best book is Geoffrey L. Lewis' excellent Turkish Grammar. My attempt in these pages is to put together a heavily compressed summary of his textbook"
 
 
 
