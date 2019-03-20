@@ -54,3 +54,43 @@ http://titus.uni-frankfurt.de/didact/karten/turk/turklm.htm - map of the Turkic 
 
 
 
+----
+Podcasts in Turkish ::
+
+
+Efe Aydal: 
+Kavanoz 1 - https://www.youtube.com/watch?v=jFtybWtoAd8&list=PLvIyghRkQwwhCVU3_UoznfuRisb7vEGCW
+
+https://www.youtube.com/watch?v=gGqBuUBH6y4
+Astronomi Bölüm 4 - "Yıldızlar"
+subtitles by "Yusuf Aydın, edited efe Aydal"
+https://www.efeaydal.com/ - KİRLİ12 PODCAST
+
+https://www.youtube.com/watch?v=gGqBuUBH6y4 : Astronomi Bölüm 4 - "Yıldızlar"
+
+açık-radyo: http://acikradyo.com.tr/podcastler
+
+
+http://radyo.trt.net.tr/YapimListesi.aspx
+
+http://kayitbasladi.com/episodes
+https://www.youtube.com/user/kayitbasladi
+
+https://podcasts.ox.ac.uk/keywords/turkey
+
+
+
+
+https://karnaval.com/programlar/rabarba - Mesut Süre ile Rabarba 
+
+Ottoman history : In English and Turkish: 
+https://www.ottomanhistorypodcast.com/p/turkce.html
+https://soundcloud.com/ottoman-history-podcast/osmanlida-kadinlar-ve-mimarlik-uretimi-muzaffer-ozgules
+
+https://www.ottomanhistorypodcast.com/2018/10/ozgules.html
+https://soundcloud.com/ottoman-history-podcast/t-rkiyede-tarih-retimi-emrah-y
+
+
+
+
+
