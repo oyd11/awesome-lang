@@ -1,6 +1,11 @@
 
 ## Spanish
 
+
+Dreaming Spanish - 
+https://www.youtube.com/channel/UCouyFdE9-Lrjo3M_2idKq1A/about
+https://www.patreon.com/DreamingSpanish - Pablo's channel - following Krashen's ideas
+
 https://www.notesinspanish.com - quality free podcasts,natural language learning - from at Itermediate level and above
 
 http://www.unlimitedspanish.com - 'Natural language learning' style - only target language with redundancy. (recommended by Piotr, from [realpolish :: polish]
