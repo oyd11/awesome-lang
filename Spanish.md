@@ -2,6 +2,16 @@
 ## Spanish
 
 
+https://www.practiquemos.com :  PRACTIQUEMOS by Catalina Moreno E. : 
+https://www.youtube.com/channel/UCVMjfqNdDN-MoH0LRjZUFkA
+
+http://www.spanishpodcast.org/podcasts/
+
+https://www.notesinspanish.com/
+
+
+
+
 Dreaming Spanish - 
 https://www.youtube.com/channel/UCouyFdE9-Lrjo3M_2idKq1A/about
 https://www.patreon.com/DreamingSpanish - Pablo's channel - following Krashen's ideas
