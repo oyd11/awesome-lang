@@ -3,6 +3,8 @@
 
  * http://www.learnhebrewpod.com - a lot of free lessons, more paid. alternating Hebrew with English explainations. Levels - beginner to advanced.
 
+https://www.hebrewpodcasts.com/
+
 ### Native-media Podcasts
 
  * http://www.shavua.net/ - Podcast about technological startups, very nice, natural speech, good recording quality. Taste the 'startup-nation' feel
@@ -14,4 +16,5 @@
  
 [ for example:  https://www.ranlevi.com/texts/mig25_vs_pini_text/ ] 
 
+https://www.kan.org.il/podcast/program.aspx?progId=7 - "xajot kis" - חיות כיס : 
 
