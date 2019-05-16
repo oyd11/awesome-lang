@@ -9,9 +9,11 @@ Audio + online lessons:
 http://www.russianforfree.com/ - texts read out with audio at all levels, nice grammar lessons. (free)
 
 podcast
-http://russianpodcast.eu
+http://russianpodcast.eu - Tatiana's podcast, the best Comprehensible-Input graded podcast - 100% russian
 taste-of-russian:
 http://www.torpod.com/
+
+http://www.russianeasy.com
 
 Business Russian Podcasts :: UCLA Dr Anna Kudyma
 http://web.international.ucla.edu/cwl/news/businessrussian
