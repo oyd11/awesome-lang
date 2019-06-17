@@ -7,3 +7,5 @@ Adnoddau: Dysgu Cymraeg
 https://www.youtube.com/watch?v=vBPrDJu33zk
 
 
+https://www.saysomethingin.com/welsh - mp3 lessons, free, reg
+
