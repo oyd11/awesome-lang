@@ -5,3 +5,8 @@
 
 
 
+http://www.bintangbahasa.com/audio_program.html
+
+http://www.learntospeakindonesian.com/
+
+
