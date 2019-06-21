@@ -2,6 +2,8 @@
 Awesome list, curated language learning resources
 [ so far a stub ]
 
+Note: There was a branch called "Some-Unchecked" since some of the pages contain unchecked links, I've ended up merging it into master, since while it's a bit messy - I already find this collection very useful when juggling between target languages personally. (I Usually `grep` for a language name)
+
 Note:: This is a 'pre-release' state list, posted here to collect links for now. TODO: ASAP: split into different files per language, as they'll have different maintainers. please add only resources which you've used and present some self curated awesomeness.
 
 see: intent - curate lists for (natural) language learning, with the same guidelines of 
