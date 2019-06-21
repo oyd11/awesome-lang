@@ -13,3 +13,6 @@ textbooks:
 
 
 
+http://oromiffa.com - EZ Oromo Oromiffa part of :: https://africanlanguage.com
+
+

@@ -28,3 +28,7 @@ http://morgannilsson.se/Beginning%20Somali.pdf
 
 
 
+Practical Grammar of the Somali Language with a Manual of Sentences /  
+ Évangéliste de Larajasse, père.; Cyprien de Sampont, père.
+
+
