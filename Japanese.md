@@ -21,3 +21,6 @@ http://nihonshock.com/
 cheat-sheets - basic one for free : http://cheatsheets.nihonshock.com/sheets/basic-japanese/
 
 
+https://www.tofugu.com/japanese/japanese-learning-resources-may-2019/
+
+
