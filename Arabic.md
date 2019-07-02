@@ -4,6 +4,9 @@ https://github.com/malikolivier/fahm - Fahm Arabic Pop-up Dictionary for Chrome 
 
 https://www.almaany.com - dictionary
 
+https://learning.aljazeera.net/en - Many videos and introductionary cartoons, with vocabulary on the sidebar
+
+
 # Spoken varieties
 
  * [Talk In Arabic . com](https://www.talkinarabic.com) -
