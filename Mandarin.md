@@ -28,3 +28,9 @@ https://chinese.yabla.com/chinese-pinyin-chart.php - audio full PinYin chart !
 Accesible Grammar overview:
 https://resources.allsetlearning.com/chinese/grammar/
 
+https://resources.allsetlearning.com/chinese/grammar/Expressing_actions_in_progress_(full_form)
+https://resources.allsetlearning.com/chinese/grammar/Main_Page - Mandarine Chinese grammar wiki
+
+
+
+

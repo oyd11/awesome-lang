@@ -235,6 +235,10 @@ https://www.youtube.com/watch?v=8wiUhSIP5TM
  https://somaliforkids.nomadps.com 
  https://somaliforkids.nomadps.com/other_resources/
 
+---
+
+Bino and Fino : Nigerian children cartoon, in Igbo, Yoruba, Hausa, English, Swahili, in Youtube
+
 
 
 
