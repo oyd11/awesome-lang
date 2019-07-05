@@ -92,5 +92,8 @@ https://soundcloud.com/ottoman-history-podcast/t-rkiyede-tarih-retimi-emrah-y
 
 
 
+https://learnturkish.com/ - tutorial site with registeration 
+
+
 
 
