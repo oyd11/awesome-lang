@@ -34,3 +34,8 @@ https://resources.allsetlearning.com/chinese/grammar/Main_Page - Mandarine Chine
 
 
 
+https://www.writtenchinese.com 
+http://dictionary.writtenchinese.com - Real good learners dictionary, characters + example phrases + compounds...
+
+
+
