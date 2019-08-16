@@ -39,3 +39,7 @@ http://dictionary.writtenchinese.com - Real good learners dictionary, characters
 
 
 
+https://mandarinhq.com/ - Mandarin-HQ - learn Mandarin from Street-intviews (some free, some paid)
+https://www.youtube.com/watch?v=p0jFSceGkcE&list=PLyNj2A-X57QFOw54J0QGYA13XkHExkgXU&index=21
+
+
