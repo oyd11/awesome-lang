@@ -1,6 +1,9 @@
 
 ## Mandarin (Chinese)
 
+https://mandarincorner.org - Mandarin-Corner - free videos and podcasts, with more paid content, a lot in Mandarin Chinese with subtitles and transcriptions and translations
+https://www.youtube.com/channel/UC2fAiRQHRQT9aj9P_ijYeow/
+
  * https://chinesefor.us - free + paid options, very nice fully subtitled videos (PinYin+Chars+English)
   * https://www.youtube.com/channel/UCgCrOLcWvSFl5K2ld0nKS7w
 
@@ -41,5 +44,8 @@ http://dictionary.writtenchinese.com - Real good learners dictionary, characters
 
 https://mandarinhq.com/ - Mandarin-HQ - learn Mandarin from Street-intviews (some free, some paid)
 https://www.youtube.com/watch?v=p0jFSceGkcE&list=PLyNj2A-X57QFOw54J0QGYA13XkHExkgXU&index=21
+
+
+
 
 
