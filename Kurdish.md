@@ -34,6 +34,8 @@ Seems like a good basic textbook to learn most things you'd need and more. It ha
 Last but not least, here's just a basic introduction, but worth posting nevertheless;
 http://rojavaplan.com/uploads/kurdish/kurmanji-basic.pdf
 
+https://internationalistcommune.com/learn-kurmanci/
+
 
 ### Podcasts:
 
