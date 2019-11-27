@@ -1,4 +1,9 @@
 
+DLIFLC: LSK: Language-Survival-Kits: audio-phrasebooks [see: MultiLang.md](MultiLang.md)
+* https://fieldsupport.dliflc.edu/products/quechua/qu_bc_LSK/
+* https://fieldsupport.dliflc.edu/products/quechua/qu_md_LSK/ 
+
+
 ##  Unverified links ::
 * [mentioned in a conversation between Michael Nock and Ian Curry ]
 
