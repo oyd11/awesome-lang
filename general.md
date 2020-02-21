@@ -1,7 +1,7 @@
 
 # general, multi-language:
 
- * https://www.digitaldialects.com : useful basic vocabulary teaching games with audio : 
+ * https://www.digitaldialects.com : useful basic vocabulary teaching games with audio : colour terminology, such lists:
  : Afrikaans | Arabic | Chinese games | Croatian | Dutch | English | Filipino | Finnish games | French games - spelling| Hindi | Hungarian | Indonesian games | Irish | Italian | Korean | Javanese | Pashto | Polish games | Portuguese Brazilian | Portuguese European | Romanian | Russian | Spanish games - spelling | Sundanese | Tibetan | Tongan | Turkish | Urdu | Vietnamese : 
 In development (partial) -  Albanian | Bosnian| Catalan | Cebuano | Czech | Danish | Esperanto | Estonian | Farsi | Greek |Icelandic |K'iche' | Malay | Maltese |Norwegian |Serbian | Slovak | Slovene | Somali | Swedish | Welsh
 
