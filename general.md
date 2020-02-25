@@ -1,6 +1,11 @@
 
 # general, multi-language:
 
+ * https://www.digitaldialects.com : useful basic vocabulary teaching games with audio : colour terminology, such lists:
+ : Afrikaans | Arabic | Chinese games | Croatian | Dutch | English | Filipino | Finnish games | French games - spelling| Hindi | Hungarian | Indonesian games | Irish | Italian | Korean | Javanese | Pashto | Polish games | Portuguese Brazilian | Portuguese European | Romanian | Russian | Spanish games - spelling | Sundanese | Tibetan | Tongan | Turkish | Urdu | Vietnamese : 
+In development (partial) -  Albanian | Bosnian| Catalan | Cebuano | Czech | Danish | Esperanto | Estonian | Farsi | Greek |Icelandic |K'iche' | Malay | Maltese |Norwegian |Serbian | Slovak | Slovene | Somali | Swedish | Welsh
+
+
  * https://www.reddit.com/r/languagelearning/comments/5grr6e/language_learning_resources_900_gb_and_much_more/ - reddit feed, and sub-reddits : 
 
 
@@ -48,5 +53,6 @@ Rough Guide Phrasebooks - The books are out of print - but Audio is posted free 
 
 
 https://LLL.ru -  ЖИВОЙ ЯЗЫК - living language - Russia - 
+
 
 
