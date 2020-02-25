@@ -27,3 +27,10 @@ ArabicMeghrabi.md
 
 
 https://www.mezzoguild.com/best-arabic-listening-resources/
+
+# Font
+
+https://software.sil.org/scheherazade/ - Unicode 8.0 supporting Arabic script font
+
+
+
