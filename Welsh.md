@@ -14,4 +14,11 @@ http://www.welshsociety.com/Lab5/ - Vancouver Welsh Society : PDF lessons :  Wel
 
  https://digitalwords.net/ling/cymraeg/cwrs
 
+https://player.bfi.org.uk/free/film/watch-hedd-wyn-1992-online - Hedd-Wyn film from 1992, free online version with English subtitles: about the life of the Poet : [ https://en.wikipedia.org/wiki/Hedd_Wyn ] 
+
+
+
+
+
+
 
