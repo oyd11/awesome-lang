@@ -5,6 +5,12 @@
  : Afrikaans | Arabic | Chinese games | Croatian | Dutch | English | Filipino | Finnish games | French games - spelling| Hindi | Hungarian | Indonesian games | Irish | Italian | Korean | Javanese | Pashto | Polish games | Portuguese Brazilian | Portuguese European | Romanian | Russian | Spanish games - spelling | Sundanese | Tibetan | Tongan | Turkish | Urdu | Vietnamese : 
 In development (partial) -  Albanian | Bosnian| Catalan | Cebuano | Czech | Danish | Esperanto | Estonian | Farsi | Greek |Icelandic |K'iche' | Malay | Maltese |Norwegian |Serbian | Slovak | Slovene | Somali | Swedish | Welsh
 
+ * http://www.goethe-verlag.com :  Audio phrasebooks : an amazing resource, any pair:
+   AD Adyghe AF Afrikaans AM Amharic AR Arabic BE Belarusian BG Bulgarian BN Bengali BS Bosnian CA Catalan CS Czech DA Danish DE German EL Greek EM English US EO Esperanto ES Spanish ET Estonian FA Persian FI Finnish FR French HE Hebrew HI Hindi HR Croatian HU Hungarian HY Armenian ID Indonesian IT Italian JA Japanese KA Georgian KK Kazakh KN Kannada KO Korean LT Lithuanian LV Latvian MK Macedonian MR Marathi NL Dutch NN Norwegian - Nynorsk NO Norwegian PA Punjabi PL Polish PT Portuguese PT PX Portuguese BR RO Romanian RU Russian SK Slovak SL Slovene SQ Albanian SR Serbian SV Swedish TA Tamil TE Telugu TH Thai TI Tigrinya TR Turkish UK Ukrainian UR Urdu VI Vietnamese ZH Chinese
+
+
+-----
+
 
  * https://www.reddit.com/r/languagelearning/comments/5grr6e/language_learning_resources_900_gb_and_much_more/ - reddit feed, and sub-reddits : 
 
