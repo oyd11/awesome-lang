@@ -65,3 +65,6 @@ Kurmanji Kurdish: A Reference Grammar with Selected Readings by W. M. Thackston
  * Glossika : https://ai.glossika.com - includes Sorani for now (Free)
 
 
+ * https://www.reddit.com/r/kurdish/comments/6f22u6/resources_for_learning_kurdish/ - reddit resource list, including another grammar PDF : "A Basic Guide to Soranî Grammar by Danielle H. Kim"
+
+
