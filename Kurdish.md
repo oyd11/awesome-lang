@@ -65,3 +65,27 @@ Kurmanji Kurdish: A Reference Grammar with Selected Readings by W. M. Thackston
  * Glossika : https://ai.glossika.com - includes Sorani for now (Free)
 
 
+---
+ * Textbook PDF:
+https://www.academia.edu/27750105/Kurmanji_Kurdish_For_The_Beginners_PDF
+
+Apparently, by  Jenny Rahbek, Uppsala University:
+
+A complete course for the beginners of Northern Kurdish (Kurmanji). A dialect which most of Kurdish people speaking around the world.
+
+
+
+The above textbook is posted in some different online URLS, signed Harvard and Uppsala university 
+
+In case the URL changes - the first dialog contains the phrase:
+
+"Ez jî kurd im. Ha, mamoste tê." / "I am a Kurd too. Oh, the teacher is coming. "
+Parts of it are available as a blog: https://kurmanci101.blogspot.com/
+
+And in the Uppsala university website as Doc files, for the course:
+"APPLIED KURDISH: STUDIES IN A KURDISH SPEAKING COUNTRY, 30.0 C"
+
+https://studentportalen.uu.se/portal/portal/uusp/student/student-courses?uusp.portalpage=true&courseCode=5KD350&uusp-locale=en
+
+---
+
