@@ -88,4 +88,6 @@ And in the Uppsala university website as Doc files, for the course:
 https://studentportalen.uu.se/portal/portal/uusp/student/student-courses?uusp.portalpage=true&courseCode=5KD350&uusp-locale=en
 
 ---
+=======
+ * https://www.reddit.com/r/kurdish/comments/6f22u6/resources_for_learning_kurdish/ - reddit resource list, including another grammar PDF : "A Basic Guide to Soranî Grammar by Danielle H. Kim"
 
