@@ -70,6 +70,16 @@ for example : tigrinya http://ttb.twr.org/tigrinya http://ttb.twr.org/ twi  http
 
  * Teach-Yourself
 
+----
+Audio course:
+
+ * https://linguaboost.com : useful conversational phrasebooks in several languages, MP3 + PDF, 30 lessons per level, 5 first lessons are a free download including a review track and a PDF file.
+ Sourced in English or Spanish for now. Current course list: 
+[  Albanian, Arabic (Syrian), Bengali, Chinese (Mandarin), French, German, Hindi, Italian, Japanese, Korean, Persian, Polish, Portuguese (Brazilian), Russian, Spanish, Swahili, Turkish ]
+
+
+----
+
 
 
 
