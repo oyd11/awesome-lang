@@ -18,4 +18,6 @@ Russian based:
  *
  *
 
+--
+http://uuno.tamk.fi - uuno / uuno2 - flash based games, introducing Finnish with audio 
 
