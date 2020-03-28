@@ -21,3 +21,7 @@ Russian based:
 --
 http://uuno.tamk.fi - uuno / uuno2 - flash based games, introducing Finnish with audio 
 
+ * Easy Finnish - youtube guide:
+https://www.youtube.com/playlist?list=PLUCgSYHrzBhmo_P0WUplVsPBL9NhwERWd
+
+
