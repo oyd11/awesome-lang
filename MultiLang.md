@@ -81,6 +81,14 @@ Audio course:
 ----
 
 
+http://www.worldlanguage.com - an book store collecting multi-lingual books and textbooks in many languages, for example, Harry-Potter:
+http://www.worldlanguage.com/Languages/Lithuanian.htm
+(seems like automatic scanning, nice, but not done well enough, EG, I would expect something like this to map 'the little prince' and 'pippi longstockings' in many languages)
+
+
+----
+
+
 
 
 ## TODO:
