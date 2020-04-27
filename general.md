@@ -62,3 +62,6 @@ https://LLL.ru -  ЖИВОЙ ЯЗЫК - living language - Russia -
 
 
 
+https://universeofmemory.com/language-links-database/
+
+
