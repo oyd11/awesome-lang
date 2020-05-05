@@ -88,6 +88,10 @@ http://www.worldlanguage.com/Languages/Lithuanian.htm
 
 ----
 
+https://www.optilingo.com - Jonty Yamisha's websites :
+https://go.optilingo.com/ : App + mobile app (Android / iOS) : a spaced repetition system for : 
+ Arabic Chinese Circassian Danish Dutch French German Hindi Icelandic Italian Japanese Korean Norwegian Polish Portuguese Romanian Russian Spanish Swedish Turkish
+
 
 
 

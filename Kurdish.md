@@ -91,3 +91,10 @@ https://studentportalen.uu.se/portal/portal/uusp/student/student-courses?uusp.po
 =======
  * https://www.reddit.com/r/kurdish/comments/6f22u6/resources_for_learning_kurdish/ - reddit resource list, including another grammar PDF : "A Basic Guide to Soranî Grammar by Danielle H. Kim"
 
+====
+
+Video: kurmanji lessons:
+https://www.youtube.com/channel/UCcUSd54K8Xjwfw6mgoP1rdw/videos
+https://www.instagram.com/mamostekurdish/
+
+

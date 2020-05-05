@@ -23,7 +23,10 @@ https://www.integrationresearch.net/uploads/1/3/0/7/1307353/circassians_in_jorda
 
 
 
-https://www.optilingo.com - Jonty Yamisha's websites 
+https://www.optilingo.com - Jonty Yamisha's websites :
+https://go.optilingo.com/ : App + mobile app (Android / iOS) : a spaced repetition system for : 
+Jonty's a Circassian language teacher and entrepreneur: He's built a spaced repetition system for learning: 
+ Arabic Chinese Circassian Danish Dutch French German Hindi Icelandic Italian Japanese Korean Norwegian Polish Portuguese Romanian Russian Spanish Swedish Turkish
 
 https://sites.google.com/a/adighas.com/global-gwazha/home
 
