@@ -18,3 +18,7 @@ Books:
  http://morephrem.com/ - online bookstore in Aramaic
 
 
+http://cal.huc.edu -  COMPREHENSIVE ARAMAIC LEXICON PROJECT
+http://cal.huc.edu/links.html
+
+
