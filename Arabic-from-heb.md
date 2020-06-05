@@ -18,4 +18,9 @@ https://podcasts.google.com/?feed=aHR0cDovL3d3dy5zcG9rZW4tYXJhYmljLmNvbS9jYXRlZ2
 
 קורס מזורז למתחילים – באחכי ערבי
 
+https://www.youtube.com/channel/UCTSRVgJFw4Wg2XPyFi41Plg
+באחכי ערבי
+
+
+
 
