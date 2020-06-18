@@ -36,6 +36,16 @@ http://rojavaplan.com/uploads/kurdish/kurmanji-basic.pdf
 
 https://internationalistcommune.com/learn-kurmanci/
 
+# Youtube channels :
+
+ * Kurdish, Kurmanji Lessons : "Free Kurdish Kurmanji (zimanê Kurdî/Kurmancî) Language Courses"
+  ** https://www.youtube.com/channel/UCvutKJerMREoQtzXiQaDNBQ/playlists
+  ** https://www.patreon.com/kurdishlessons
+  ** https://www.instagram.com/kurdish_lessons/
+  ** https://www.facebook.com/kurdishlessons/
+
+
+
 
 ### Podcasts:
 
