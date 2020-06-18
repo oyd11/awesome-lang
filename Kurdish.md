@@ -44,6 +44,8 @@ https://internationalistcommune.com/learn-kurmanci/
   ** https://www.instagram.com/kurdish_lessons/
   ** https://www.facebook.com/kurdishlessons/
 
+ * http://www.kurdishlessons.com/pdf-notes/ - resource list
+
 
 
 
