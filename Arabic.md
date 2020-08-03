@@ -14,6 +14,8 @@ https://learning.aljazeera.net/en - Many videos and introductionary cartoons, wi
   * Audio lessons - presented in "Egyptian Levantine Iraqi Saudi Sudanese Moroccan Tunisian Algerian"
   * https://soundcloud.com/talkinarabic - free context in SoundCloud
 
+  * lingualism.com - see in [MultiLang.md](MultiLang.md)
+
 
 ## See also:
 

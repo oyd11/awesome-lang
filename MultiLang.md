@@ -26,6 +26,15 @@
  * https://www.livelingua.com Index: - "FSI courses" , "Peace Corps Language Courses", "DLI Language Courses"
  * Colloquial Routeledge - free audio online (textbooks for sell)
 
+ * http://lingualism.com : by Matthew Aldrich: currently offering: Arabic (MSA, Levantine, Egyptian, various), Russian and Spanish. Free audio with paid PDF books (free sample chapters, hard-copies sold by Amazon) : Offers several Upper-Beginner titles, plus a unique Intermediate level series called "Voices" - where native speakers tell about their lives, and their oral-essays are fully transcribed and translated, specific vocabulary is explained. The Spanish "Voices" - has a variety of speakers from Spain and Latin-America. The
+   Arabic versions of "Voices" are avaiable both in MSA and in some of the local dialects.
+
+ * http://turkicum.com : by Elvin Allazov, 'Gateway to the Turkic world', but expanded to other languages as well.  current releases: Armenian Azerbaijani Bulgarian Croatian Georgian Kazakh Kyrgyz Polish Serbian Tajiki Turkish Ukrainian Uzbek. Free audio of all books online, book purchase links through the website to Amazon, digital versions - though the 'Kindle' store as an 'epub' book (not PDF for now), hard copies avaliable through Amazon or the Book-Depository. Books include practical
+   grammmar introductions, and text to follow the Audio with.
+  
+
+
+
 ### Podcasts
  * Innovative Language
 
