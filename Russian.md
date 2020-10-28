@@ -13,6 +13,9 @@ http://russianpodcast.eu - Tatiana's podcast, the best Comprehensible-Input grad
 taste-of-russian:
 http://www.torpod.com/
 
+https://www.russianwithmax.com - 100% Russian target language podcast, Max speaks about current events from Russia, in slow Russian while explaining vocabulary.
+[ https://www.patreon.com/russianwithmax , https://www.instagram.com/russianwithmax/ , https://www.youtube.com/c/RussianWithMax , https://anchor.fm/comprehensible-russian ]
+
 http://www.russianeasy.com
 
 Business Russian Podcasts :: UCLA Dr Anna Kudyma
