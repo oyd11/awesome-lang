@@ -40,4 +40,5 @@ Online text lessons :
 http://www.russianforfree.com/
 http://learnrussian.rt.com/ - grammar 
 
-
+Videos with interactive subtitles:
+https://3ears.com/
