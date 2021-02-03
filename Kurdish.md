@@ -109,4 +109,9 @@ Video: kurmanji lessons:
 https://www.youtube.com/channel/UCcUSd54K8Xjwfw6mgoP1rdw/videos
 https://www.instagram.com/mamostekurdish/
 
+==
+
+https://forum.duolingo.com/comment/44477084 - My Ultimate Guide To Learn Kurdish for English Speakers - a resource index in a DuoLingo discussion, listing several Podcasts and textbooks
+
+
 
