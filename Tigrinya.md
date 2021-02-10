@@ -17,10 +17,21 @@
 ## Textbooks and grammars
 
  * A Comprehensive Tigrinya Grammar: Amanuel Sahle
- * Tigrinya Grammar: George Mason
+ * https://nalrc.indiana.edu/resources/books-media/lets-speak.html
+
+Let's Speak Tigrinya
+By Issayas Tesfamariam (2018)
+978-1-59703-02x-x
+ 
+
+ * Tigrinya Grammar: John Mason
  * Tigrinya Reader And Grammar: Mulugetta Girmay Melles
  * Gir?Zion - English through Tigrinya
  * ..
+ * The Essential Guide to Tigrinya (good overview, useful vocabulary) / Andrew Tadross
+ * Tigrinya Verb Conjugation: Dimstekal, Kokeb, Tadross, Andrew [ Example phrases quite useful ]
+ * hippocrenebooks :Tigrinya phrasebook
+
 
 ## Bilingual books
 
@@ -91,4 +102,5 @@ http://art-of-buna.de/ethiopian-childrens-books/dance-saron-dance/?lang=en - PDF
 http://art-of-buna.de/ethiopian-childrens-books/der-finderlohn-die-maus-und-herr-eichhorn/?lang=en - The Mouse and Mr Squirrel / The Reward – two traditional fairy tales from Ethiopia ( Translations : Tigrinya Oromo Amharic )
 
 
+##
 
