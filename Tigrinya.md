@@ -37,6 +37,11 @@ By Issayas Tesfamariam (2018)
 
 http://www.tapbookauthor.com/bokbussenapp/Default.html - Online accessible children books, in levels 1 .. 4 : where all the context is translated into several languages: The main language is Norwegian: Translations into : Tigrinya, English, Norwegian, Dari (Persian), Kurdish (Kurmanji), Pashto, an Arabic: [bokmål nynorsk engelsk dari kurdisk pashto arabisk tigrinja]
 
+https://www.morsmal.no/ti/ - Another Norwegien blog with some entries in several languages: Tigrinya included
+https://www.morsmal.no/no/
+https://www.morsmal.no/ti/tigrinja-naturfag/8547-smak-barnetrinnet-tigrinja
+[ Arabisk العربية Dari دری Kurdisk Sorani کوردی Litauisk Lietuvių Pashto پښتو Persisk فارسی Polsk Polski Russisk Русский Somali Soomaali Spansk Español Tamil தமிழ் Thaiไ ทย Tigrinja ትግርኛ Tyrkisk Türkçe Urdu اردو]
+
 ## Learning Podcasts
 
 ## Dictionaries phrasebooks (online)
