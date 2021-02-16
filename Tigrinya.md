@@ -35,6 +35,8 @@ By Issayas Tesfamariam (2018)
 
 ## Bilingual books
 
+http://www.tapbookauthor.com/bokbussenapp/Default.html - Online accessible children books, in levels 1 .. 4 : where all the context is translated into several languages: The main language is Norwegian: Translations into : Tigrinya, English, Norwegian, Dari (Persian), Kurdish (Kurmanji), Pashto, an Arabic: [bokmål nynorsk engelsk dari kurdisk pashto arabisk tigrinja]
+
 ## Learning Podcasts
 
 ## Dictionaries phrasebooks (online)
