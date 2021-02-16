@@ -35,7 +35,7 @@ By Issayas Tesfamariam (2018)
 
 ## Bilingual books
 
-http://www.tapbookauthor.com/bokbussenapp/Default.html : by GAN Aschehoug Publishing House : Online accessible children books, in levels 1 .. 4 : where all the context is translated into several languages: The main language is Norwegian: Translations into : Tigrinya, English, Norwegian, Dari (Persian), Kurdish (Kurmanji), Pashto, an Arabic: [bokmål nynorsk engelsk dari kurdisk pashto arabisk tigrinja]
+http://www.tapbookauthor.com/bokbussenapp/Default.html : by GAN Aschehoug Publishing House : Online accessible children books, (With Audio, also of the Tigrinya version) in levels 1 .. 4 : where all the context is translated into several languages: The main language is Norwegian: Translations into : Tigrinya, English, Norwegian, Dari (Persian), Kurdish (Kurmanji), Pashto, an Arabic: [bokmål nynorsk engelsk dari kurdisk pashto arabisk tigrinja] see also : https://gan.aschehoug.no
 
 https://www.morsmal.no/ti/ - Another Norwegien blog with some entries in several languages: Tigrinya included
 https://www.morsmal.no/no/
