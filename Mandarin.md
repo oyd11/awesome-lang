@@ -7,6 +7,10 @@ https://www.youtube.com/channel/UC2fAiRQHRQT9aj9P_ijYeow/
  * https://chinesefor.us - free + paid options, very nice fully subtitled videos (PinYin+Chars+English)
   * https://www.youtube.com/channel/UCgCrOLcWvSFl5K2ld0nKS7w
 
+
+ * https://www.maayot.com/ : Mandarin podcasts and stories, free plan includes one story per week:
+  ** https://www.listennotes.com/podcasts/maayot-learn-mandarin-chinese-with-stories-H5fv1uQxyG8/
+
 videos:
 Active chinese:
 https://www.youtube.com/channel/UC7p25TOWL50s3_hPV6P1pSg
