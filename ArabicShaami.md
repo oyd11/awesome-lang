@@ -14,6 +14,7 @@ Arabic variaties (Lebanese, Palestianian, Syrian, Jordanian)
  * http://andreasmhallberg.github.io/documents/ :  Uppercase Alif : Andreas Hallberg's notes on Arabic linguistics.
   Including "Syrian Arabic grammatical summary", online and as PDF (WIP, good summary, will hopeful extend)
   Also includes "Hallberg, A. (2016). Case Endings in Spoken Standard Arabic." PhD thesys : (fuşḩa, MSA, how is Case really used in actual MSA)
+  ** http://andreasmhallberg.github.io/syrian-arabic-grammatical-summary/ : online version of the Syrian-Arabic grammar, includes Audio for the initial pronounciation guide.
 
 # Textbooks with Audio
 
