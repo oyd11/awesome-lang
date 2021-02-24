@@ -6,6 +6,10 @@ https://www.almaany.com - dictionary
 
 https://learning.aljazeera.net/en - Many videos and introductionary cartoons, with vocabulary on the sidebar
 
+# Grammar
+
+ * http://andreasmhallberg.github.io/documents/ "Hallberg, A. (2016). Case Endings in Spoken Standard Arabic." PhD thesys : (fuşḩa, MSA, how is Case really used in actual MSA)
+
 
 # Spoken varieties
 
