@@ -20,7 +20,13 @@ Arabic variaties (Lebanese, Palestianian, Syrian, Jordanian)
 
 Elehay
 
-Yonahan Elihai's books are awesome. 😊 I also like the methods by Moin Halloun (Spoken Arabic for Foreigners) and Omar Othman (Yallah nihki arabi). In terms of online audio material I would recommend the YouTube channel LearnArabicwithMaha.
+Yonahan Elihai's books are awesome.
+
+ 😊 I also like the methods by Moin Halloun (Spoken Arabic for Foreigners) 
+ 
+ Omar Othman (Yallah nihki arabi)
+ 
+In terms of online audio material I would recommend the YouTube channel LearnArabicwithMaha.
 
 Lebanese
 
