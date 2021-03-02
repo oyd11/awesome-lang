@@ -16,6 +16,9 @@ Compact Kurdish - Kurmanji: Textbook with Exercises, Key and Audio-CD" is a newl
 erman, but now also in English.
 https://www.adlibris.com/.../compact-kurdish---kurmanji...
 
+https://www.kurdishcourses.com/course-category/kurdish-language-courses/ : https://www.facebook.com/kurdishcourses/ : BY HEWA S. KHALID. / at koyauniversity.org ( Iraqi Kurdistan Region ) - Offering some online Kurmanji courses (maybe Sorani in the future)
+
+
 "Kurdish Reader. Modern Literature and Oral Texts in Kurmanji: With Kurdish-English Glossaries and Grammatical Sketch" seems like a good reader for when you get to a decent level, with lots of vocabulary and grammatical explanations.
 http://www.bokus.com/.../kurdish-reader-modern.../
 
