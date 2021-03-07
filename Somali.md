@@ -10,6 +10,14 @@ headstart2 - DLIFLC + LSK
 http://hs2.dliflc.edu/somali/course/index.html?somali
 
 
+Grammar:
+
+http://hooyo.web.free.fr/E_table.html : 
+SOMALI GRAMMAR : DHISMAHA AF SOOMAALIGA / Hawa Abdillahi Ali
+
+https://www.reddit.com/r/LearnSomali/
+
+
 
 
 
