@@ -33,6 +33,12 @@ Business Russian Podcasts :: UCLA Dr Anna Kudyma
 http://web.international.ucla.edu/cwl/news/businessrussian : A short series of podcasts, target language only, about Business related vocabulary in Russian. 
 
 
+Ru-Land:
+https://www.instagram.com/ru_land_club/
+https://www.instagram.com/explore/tags/oneminuterussian/
+https://ru-land.club/links/
+https://ru-land.club/
+
 Videos:
 
 Target language videos, with subtitles in both Russian an English:
