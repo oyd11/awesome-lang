@@ -104,6 +104,43 @@ https://go.optilingo.com/ : App + mobile app (Android / iOS) : a spaced repetiti
  Arabic Chinese Circassian Danish Dutch French German Hindi Icelandic Italian Japanese Korean Norwegian Polish Portuguese Romanian Russian Spanish Swedish Turkish
 
 
+--------
+
+https://slaviccenters.duke.edu/projects/grammars   : 
+seelrc: See-LRC : | Slavica Publishers : http://www.seelrc.org : Duke University : Slavic and Eurasian Language Resource Center:
+Reference Grammar Network
+
+ * Refrence Grammars for several Slavic (and other) languages:
+  ** BCS-(Bosnian/Croatian/Serbian),	Bulgarian, Czech, Georgian, Macedonian, Polish, Romanian, Russian, Slovenian, Ukrainian
+ * Shorter grammars for :
+  ** Kazakh, Chechen, Wymysorys, Uzbek, Albanian, Romani 
+
+ [ https://slaviccenters.duke.edu/sites/slaviccenters.duke.edu/files/handbook_of_armenian.pdf ]
+ [ https://slaviccenters.duke.edu/sites/slaviccenters.duke.edu/files/site-images/2016_romanian_verbs_conjugated.pdf ]
+ [ https://slaviccenters.duke.edu/sites/slaviccenters.duke.edu/files/file-attachments/kazakh-grammar.pdf ]
+ [ https://slaviccenters.duke.edu/sites/slaviccenters.duke.edu/files/file-attachments/chechen-grammar.original.pdf ]
+ [ https://slaviccenters.duke.edu/sites/slaviccenters.duke.edu/files/media_items_files/wymysorys-grammar.original.pdf ]
+ [ https://slaviccenters.duke.edu/sites/slaviccenters.duke.edu/files/file-attachments/uzbek.original.pdf ]
+ [ http://www.seelrc.org:8080/grammar/pdf/albanian_bookmarked.pdf ]
+ [ http://www.seelrc.org:8080/grammar/pdf/romani_bookmarked.pdf ]
+ [ http://www.seelrc.org:8080/grammar/pdf/stand_alone_bulgarian.pdf ]
+ [ http://www.seelrc.org:8080/grammar/pdf/stand_alone_georgian.pdf ]
+ [ http://www.seelrc.org:8080/grammar/pdf/stand_alone_polish.pdf ] 
+ [ http://www.seelrc.org:8080/grammar/pdf/stand_alone_russian.pdf ]
+ [ http://www.seelrc.org:8080/grammar/pdf/stand_alone_romanian.pdf ]
+ [ http://www.seelrc.org:8080/grammar/pdf/stand_alone_czech.pdf ]
+ [ http://www.seelrc.org:8080/grammar/pdf/stand_alone_macedonian.pdf ] 
+ [ http://www.seelrc.org:8080/grammar/pdf/stand_alone_bcs.pdf ]
+ [ polish through film: http://www.seelrc.org:8080/polishctf/  ]
+ [ Advanced Russian student readings: https://slaviccenters.duke.edu/projects/advanced-russian-2 ]
+
+
+
+
+
+
+
+----
 
 
 ## TODO:
