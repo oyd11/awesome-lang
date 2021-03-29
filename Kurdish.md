@@ -12,29 +12,27 @@ https://www.morsmal.no/ti/tigrinja-naturfag/8547-smak-barnetrinnet-tigrinja
 
 
 # Kurmanji
-Compact Kurdish - Kurmanji: Textbook with Exercises, Key and Audio-CD" is a newly released book that I plan on using as my main textbook to learn Kurmanji, atleast initially. I have yet to order it but from what I've read it seems great. It was previously only available in German, but now also in English.
-erman, but now also in English.
-https://www.adlibris.com/.../compact-kurdish---kurmanji...
+
+Books:
+ * Compact Kurdish - Kurmanji: Textbook with Exercises, Key and Audio-CD - Heftet, Engelsk, 2014  Abdullah Incekan
+
+ * https://www.academia.edu/7914137/Kurdish_Reader_Modern_Literature_and_Oral_Texts_in_Kurmanji_With_Kurdish_English_Glossaries_and_Grammatical_Sketch : Kurdish Reader: Modern Literature and Oral Texts in Kurmanji. With Kurdish-English Glossaries and Grammatical Sketch / Khanna Omarkhal 2011 [ Xana Omerxalî ]:  Only table of contents online, sold in several bookstores, 
 
 https://www.kurdishcourses.com/course-category/kurdish-language-courses/ : https://www.facebook.com/kurdishcourses/ : BY HEWA S. KHALID. / at koyauniversity.org ( Iraqi Kurdistan Region ) - Offering some online Kurmanji courses (maybe Sorani in the future)
 
 
 "Kurdish Reader. Modern Literature and Oral Texts in Kurmanji: With Kurdish-English Glossaries and Grammatical Sketch" seems like a good reader for when you get to a decent level, with lots of vocabulary and grammatical explanations.
-http://www.bokus.com/.../kurdish-reader-modern.../
 
 "Kurdish Phrasebook and Culture" well - It's a phrasebook.
-http://www.bokus.com/.../kurdish-phrasebook-and-culture/
 
-Now we get to the BIG guns!
 
-"Kurmanji Kurdish for Beginners". Written by professors from Harvard and Uppsala University in tandem with Kurdish intellectuals - THE book to learn Kurmanji afaik. Free to download, too. I have it printed out! :)
-http://www.academia.edu/.../Kurmanji_Kurdish_For_The...
+ * https://www.academia.edu/27750105/Kurmanji_Kurdish_For_The_Beginners_PDF : "Kurmanji Kurdish for Beginners". Written by professors from Harvard and Uppsala University
+
 
 http://learnkurmanji.com
 A great website to get you started in Kurmanji and for easily navigateable basic lessons about the language. They're constantly updating and have got a lot more lessons now than when I first got interested in Kurmanji, so this will probably by extensive in a few months/years :)
 
-http://rojavaplan.com/.../Kurmanji_Kurdish_A_Reference...
-Here's one of many links to "Kurmanji Kurdish: A Reference Grammar" by W.M. Thackston, one of the best scholars of Kurdish in the west, who has also written the Sorani grammar and reader that I referenced above. It is dense, but it seems VERY good for when you're at a higher-intermediate level :)
+https://sites.fas.harvard.edu/~iranian/Kurmanji/ : Here's one of many links to "Kurmanji Kurdish: A Reference Grammar" by W.M. Thackston, one of the best scholars of Kurdish in the west, who has also written the Sorani grammar and reader that I referenced above. It is dense, but it seems VERY good for when you're at a higher-intermediate level :)
 
 http://cls.arizona.edu/kur1/contents.htm
 The Critical Language Series of Arizona University also has a course, it seems good, yet not something I'd use over the above, as it is mainly/only audio, I believe.
