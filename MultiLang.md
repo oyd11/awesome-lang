@@ -136,6 +136,12 @@ Reference Grammar Network
 
 
 
+------
+
+## Writing systems training:
+
+* https://www.typingstudy.com : Touch-typing  -  free online training, in many keyboard maps : (qwerty, russian, hebrew, dvorak, georgian , arabic , thai , hindi ) 
+
 
 
 
