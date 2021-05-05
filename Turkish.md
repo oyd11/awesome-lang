@@ -94,6 +94,16 @@ https://soundcloud.com/ottoman-history-podcast/t-rkiyede-tarih-retimi-emrah-y
 
 https://learnturkish.com/ - tutorial site with registeration 
 
+---
+
+ * Yaşasın Bilgisayar: 
+  https://www.youtube.com/watch?v=wwYnyKfyw4E&list=PLnuklGO9-nh0h0Dye-uc6o-f_xtQVzbKz&index=3   : To be reviewed, might be suitable as a podcast as well, is this children oriented?
+  Channel is called :  Alt-Tire (meaning - Underscore)
+  https://www.youtube.com/c/AltTireada 
+
+
+
+
 
 
 

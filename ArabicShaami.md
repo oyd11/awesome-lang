@@ -58,3 +58,7 @@ and view the conversation in Video https://www.youtube.com/watch?v=Zj2-me7tuVU..
 * Kullu Tamam - Egyptian (it's pretty advanced for me, I'm using it passively for now)
 
 
+## Graded readers:
+ * https://lingualism.com : see also in [MultiLang.md](MultiLang.md) : Lingualism has specific graded readers for Shaami sub-dialect (Jordan, Syrian, Palestinian, Lebanese), containing free-audio-recordings (after free account registration), and paid downloadable PDF books. There's also other useful titles.
+  * https://lingualism.com/product-category/arabic/levantine-arabic/levantine-arabic-readers/
+
