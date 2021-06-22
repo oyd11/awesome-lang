@@ -10,7 +10,7 @@ Arabic variaties (Lebanese, Palestianian, Syrian, Jordanian)
   * https://thearabicwespeak.com : the arabic we speak podcast : Amman, Jordan Dialect, various topics, in several levels of difficulty, all in 99.9% Jordinian Arabic, with quite background music, overall good sound quality, accessible content.
 
 # Online Dictionary:
- * https://rothfarb.info/ronen/arabic/ : Hebrew-Palestinian-Arabic Online searchable dictionary, community-based, Wiki, any user can contribute and verify entries. Free usage, Patreon page for support:  https://www.patreon.com/arabic4hebs/ 
+ * https://rothfarb.info/ronen/arabic/ : Hebrew-Palestinian-Arabic Online searchable dictionary, community-based, Wiki, any user can contribute and verify entries. Free usage, Patreon page for support:  https://www.patreon.com/arabic4hebs/  , useful youtube page for the project: https://www.youtube.com/c/arabic4hebs/videos
 
  * https://3amyah.com : -> 3amyah.com/?s=فلسطين ,
  3amyah.com/?s=سوريا : Inter-dialect dictionary, cute!
