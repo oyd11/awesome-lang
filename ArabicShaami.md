@@ -9,6 +9,19 @@ Arabic variaties (Lebanese, Palestianian, Syrian, Jordanian)
  * https://realarabic.weebly.com - by Amer and Keire Murphy: Keira - is learning Arabic, and gives background content in English, Amer is a Syrian-Druze, podcasts are in Syrian Arabic, sometimes in the Druze pronounciation, sometimes with Syrian-Shaami dialect. Most episodes are narration of an essay about a topic (in Arabic) with commentary in English.
   * https://thearabicwespeak.com : the arabic we speak podcast : Amman, Jordan Dialect, various topics, in several levels of difficulty, all in 99.9% Jordinian Arabic, with quite background music, overall good sound quality, accessible content.
 
+# Online Dictionary:
+ * https://rothfarb.info/ronen/arabic/ : Hebrew-Palestinian-Arabic Online searchable dictionary, community-based, Wiki, any user can contribute and verify entries. Free usage, Patreon page for support:  https://www.patreon.com/arabic4hebs/ 
+
+ * https://3amyah.com : -> 3amyah.com/?s=فلسطين ,
+ 3amyah.com/?s=سوريا : Inter-dialect dictionary, cute!
+
+ * Lughatuna : app and website: https://www.livingarabic.com/dictionaries : there's a search tab with "Classical / Egyptian / Levantine / Maghrib "
+
+ * Safa1 : Hebrew : Palestinian-Arabic: https://beelangodictionaries.com
+
+ * Shater - Hebrew Arabic dictionary app: https://www.linkedin.com/in/chen-haviv/
+
+
 # Grammar
 
  * http://andreasmhallberg.github.io/documents/ :  Uppercase Alif : Andreas Hallberg's notes on Arabic linguistics.
