@@ -24,4 +24,15 @@ http://uuno.tamk.fi - uuno / uuno2 - flash based games, introducing Finnish with
  * Easy Finnish - youtube guide:
 https://www.youtube.com/playlist?list=PLUCgSYHrzBhmo_P0WUplVsPBL9NhwERWd
 
+---
+Audio-Courses: (paid)
+ * Pimsleur Finnish
+ * Edgard, Finnish (Polish source) : https://edgard.pl/ => https://jezykiobce.pl
+ * Lingva.in: Finnish (Russian source) : https://lingva.in/
+
+
+---
+
+
+
 
