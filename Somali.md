@@ -1,6 +1,6 @@
 
 
-audio:
+## audio:
 http://www.routledgetextbooks.com/textbooks/colloquial/language/somali.php
 
 http://www.digitaldialects.com/Somali.htm
@@ -9,8 +9,10 @@ http://www.digitaldialects.com/Somali.htm
 headstart2 - DLIFLC + LSK
 http://hs2.dliflc.edu/somali/course/index.html?somali
 
+http://fieldsupport.dliflc.edu/ - LSK: Language-Support-Kit : Somali
 
-Grammar:
+
+## Grammar:
 
 http://hooyo.web.free.fr/E_table.html : 
 SOMALI GRAMMAR : DHISMAHA AF SOOMAALIGA / Hawa Abdillahi Ali
@@ -35,8 +37,14 @@ http://morgannilsson.se/Somalisk%20grammatik%20for%20modersmalstalare.pdf
 http://morgannilsson.se/Beginning%20Somali.pdf
 
 
+## Books:
 
 Practical Grammar of the Somali Language with a Manual of Sentences /  
  Évangéliste de Larajasse, père.; Cyprien de Sampont, père.
+
+
+ * La soco af Soomaaliga =: Go along with the Somali language : student's book /  Joy Carter  
+
+ * telegram channel with books: https://t.me/Somalilibrary
 
 
