@@ -16,6 +16,7 @@ http://fieldsupport.dliflc.edu/ - LSK: Language-Support-Kit : Somali
 
 http://hooyo.web.free.fr/E_table.html : 
 SOMALI GRAMMAR : DHISMAHA AF SOOMAALIGA / Hawa Abdillahi Ali
+http://hooyo.web.free.fr/E_index.html - the above Grammar, animal-list and dictionary.
 
 https://www.reddit.com/r/LearnSomali/
 
