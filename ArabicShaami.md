@@ -3,7 +3,7 @@ Arabic variaties (Lebanese, Palestianian, Syrian, Jordanian)
 
 # Podcasts:
 
- * https://anchor.fm/olivia-furber : Learn Levantine Arabic with Livi
+ * https://anchor.fm/olivia-furber : Learn Levantine Arabic with Livi == https://www.instagram.com/learnlevantinewithlivi/ 
     Target language podcast, Olivia Furber. Olivia is not a native speaker, but an advanced learner, from the UK, the co-presenter Ramzi is a native speaker (Palestinian). A bit of English, but mostly Arabic.
 
  * https://realarabic.weebly.com - by Amer and Keire Murphy: Keira - is learning Arabic, and gives background content in English, Amer is a Syrian-Druze, podcasts are in Syrian Arabic, sometimes in the Druze pronounciation, sometimes with Syrian-Shaami dialect. Most episodes are narration of an essay about a topic (in Arabic) with commentary in English.
