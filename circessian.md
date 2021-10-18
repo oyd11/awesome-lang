@@ -1,4 +1,36 @@
 
+Circassian / Adyghe / Kabardian  (Адыгабзэ, Къэбэрдей-Адыгэбзэ)
+-----
+
+
+https://adygabze-online.ru/english : Lera, who grew up in Maykop, and did an Applied-Linguistics at Penn State University in 2017
+https://adygabze-online.ru/ :  Адыгабзэ Online: Бесплатные интерактивные упражнения по адыгcкому языку
+
+
+https://arigi01.ru/
+https://arigi01.ru/index.php?newsid=178 : Fables 100 short audio-recorded fables for those who continue to learn Adyghe or for children who have already acquired/are acquiring the language. 
+https://arigi01.ru/index.php?do=cat&category=audeo
+
+
+
+https://apps.apple.com/us/app/adyghe-sounds/id1482405741 - an iPad app "Adyghe Sounds : A pronunciation guide / FOLIE"
+
+
+https://www.youtube.com/channel/UCpNY0XqSY9qd6tqnB-vKoxg :  Нанэ ипшысэхэр - Adyghe stories
+
+https://www.instagram.com/sarraachmiz/ : Сарра Ачмиз
+https://www.youtube.com/channel/UCgt5MJIAO31-aqdq85DoWtQ
+
+https://www.instagram.com/circassian_kids/
+
+https://www.instagram.com/adigabze.circassian/ :  Study circassian  
+https://www.youtube.com/channel/UCBeo03RuqgXz7_EoEzXumVg
+
+
+https://www.instagram.com/adyghabz/
+https://linktr.ee/adyghabz
+
+
 http://www.danef.com - including an online radio and 24h internet television 
 http://www.daneftv.com/
 
