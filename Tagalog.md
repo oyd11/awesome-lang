@@ -15,9 +15,15 @@ In celebration of “National Language Month”, Dalubhasa Review Center (DRC) l
 
 
 
+### Podcasts:
 http://talktagalog.com/
 Talk Tagalog - Learn Tagalog the Natural Way
 https://www.youtube.com/channel/UCSwNmy-4NJZHnJoDQUv1eRg
+ + podcast (beginner - Tagalog only constructed dialogues with text translations on the website)
+ + blog for learners 
+ + first 100 words + phrases in context phrasebook
+ + Paid support patreon support 
+ + In google podcasts: https://podcasts.google.com/feed/aHR0cHM6Ly90YWxrdGFnYWxvZy5jb20vZmVlZC9wb2RjYXN0Lw
 
 
 http://www.fsi-language-courses.net/fsi-tagalog-language-course/ - FSI - 'HeadStart' Tagalog course (audio + pdf)
@@ -46,4 +52,6 @@ Video  channels :
 
 http://www.tuttlepublishing.com/tagalog-for-beginners-downloadable-cd-content
 
+
+-------
 
