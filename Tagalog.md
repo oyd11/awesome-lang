@@ -1,4 +1,14 @@
 ## Tagalog / Filipino 
+
+
+Tagalog.com :
+ * Tagalog.com is creating a FREE online community with tools and content for students of the Tagalog / Filipino language of the Philippines!
+ * Dictionary, Podcast, Phrase/Word of the day + Lessons:
+ * https://www.tagalog.com/podcast/
+ * https://www.tagalog.com/lessons/
+ * https://www.tagalog.com/word-of-the-day/
+ * https://www.patreon.com/tagalog
+
  * http://learningtagalog.com
   -  "Essential Tagalog Grammar" / "Fiona De Vos" 
  * http://www.surfacelanguages.com/language/Tagalog.html
