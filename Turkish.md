@@ -107,3 +107,7 @@ https://learnturkish.com/ - tutorial site with registeration
 
 
 
+https://foxtonbooks.co.uk/turkish-graded-readers/ ==  Turkish Graded Readers, Yusuf Buz. The website also has graded readers in English so far, for children and learners.
+https://turkishgrammarinpractice.com/ : Turkish Grammar in Practice  + Turkish Short Stories for beginners /  Yusuf Buz  : Online free audio on the website
+
+
