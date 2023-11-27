@@ -8,6 +8,8 @@ http://swahiliproverbs.afrst.illinois.edu
 
 http://www.africa.uga.edu/Kiswahili - Kiko - online KiSwahili guide (with some audio samples) : Pronounciation example of each phoneme, and a list with examples of all noun classes
 
+http://aflang.humanities.ucla.edu/language-courses/swahili/
+
 
 
 

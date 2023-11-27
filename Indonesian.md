@@ -10,3 +10,5 @@ http://www.bintangbahasa.com/audio_program.html
 http://www.learntospeakindonesian.com/
 
 
+https://www.youtube.com/watch?v=DQpmMcwv738 : Teddy Nee from Glossika - teaching 50 Indonesian phrases
+

@@ -47,3 +47,25 @@ https://www.facebook.com/pg/AILMadridSpanish/videos/?ref=page_internal
 https://www.facebook.com/jesus.madrid.566/videos
 
 
+## 
+https://www.rea-sj.pl/materialy-do-pobrania/ -  Język Hiszpański - w 4 tygodnie - audio mp3 :  (Polish based material : also other languages here: Spanish Russian German English Arabic Italian )
+
+
+
+https://www.wagros.com.pl/r-rozmawiaj1.html
+https://www.wagros.com.pl/r-rozmawiaj2.html
+
+spanish
+
+https://www.wagros.com.pl/h-rozmawiaj1.html
+https://www.wagros.com.pl/h-rozmawiaj2.html
+
+English 
+https://www.wagros.com.pl/a-rozmawiaj1.html
+https://www.wagros.com.pl/a-rozmawiaj2.html
+
+German:
+https://www.wagros.com.pl/n-rozmawiaj1.html
+https://www.wagros.com.pl/n-rozmawiaj2.html
+
+

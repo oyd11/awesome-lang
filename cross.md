@@ -65,5 +65,54 @@ Some children oriented - Tigrinya Farsi
 
 https://www.hueber.de/audioservice/
 
+##
+
+ * National African Language Resource Center : Several book series : 
+  ** "LET'S READ SERIES": [ Dusome Ikinyarwanda - Let's Read Kinyarwanda
+     Ngativerenge Shona - Let's Read Shona
+     Tusome Kiswahili - Let's Read Swahili
+     Ma Yɜnkan Akan Twi
+     Nanu Jàng Wolof - Let's Read Wolof ]
+  ** "Let's Speak Series": 
+       Let's Speak Amharic
+       An Ka Bamanankan Fo - Let's Speak Bamanankan
+       Natulande iciBemba - Let's Speak Bemba
+       Tiyankhule ChiChewa - Let's Speak ChiChewa
+       Dardasha Egyptian Arabic - Let’s Speak Egyptian Arabic
+       Mu Zanta Da Harshen Hausa - Let’s Speak Hausa
+       Ka Anyị Sụọ Igbo - Let's Speak Igbo
+       Beto Tuba Kikongo - Let's Speak Kikongo
+       Tuvuge Ikinyarwanda - Let’s Speak Kinyarwanda
+       Reka Tuyage Mu Kirundi - Let's Speak Kirundi
+       Tósolola na Lingála - Let’s Speak Lingala
+       Asikhulume IsiNdebele - Let’s Speak Ndebele
+       Bua Sesotho - Let’s Speak Sesotho
+       A Re Bueng Setswana - Let’s Speak Setswana
+       Ngatitaure Shona - Let’s Speak Shona
+       Asikhulume SiSwati - Let's Speak Siswati
+       Af Soomaali Aan Ku Hadalno (Hadallo) - Let’s Speak Somali
+       Tuseme Kiswahili - Let’s Speak Swahili
+       Let's Speak Tigrinya
+       Let's Speak Twi
+       Nanu Degg Wolof - Let's Speak Wolof
+       Masikhulume isiZulu - Let’s Speak Zulu
+
+  ** "LET'S COMMUNICATE SERIES"
+      Tuwasiliane Kwa Kiswahili - Let's Communicate in Swahili
+      Jẹ́ Ká Bára Wa Sọ̀rọ̀ ní Yorùbá - Let's Communicate in Yorùbá
+
+  ** "AFRICAN LANGUAGE LEARNER'S REFERENCE GRAMMAR SERIES": 
+       Amharic Learners' Reference Grammar
+       Asante-Twi Learners' Reference Grammar
+       Bamanankan Learners' Reference Grammar
+       Pulaar Learners' Reference Grammar
+       Shona Learners' Reference Grammar
+       Swahili Learners Reference Grammar
+       Zulu Learners' Reference Grammar
+
+ * https://nalrc.indiana.edu/resources/language-inventory.html : an index of university program in various "African" languages.
+
+
+
 
 

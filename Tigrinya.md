@@ -17,12 +17,30 @@
 ## Textbooks and grammars
 
  * A Comprehensive Tigrinya Grammar: Amanuel Sahle
- * Tigrinya Grammar: George Mason
+ * https://nalrc.indiana.edu/resources/books-media/lets-speak.html
+
+Let's Speak Tigrinya
+By Issayas Tesfamariam (2018)
+978-1-59703-02x-x
+ 
+
+ * Tigrinya Grammar: John Mason
  * Tigrinya Reader And Grammar: Mulugetta Girmay Melles
  * Gir?Zion - English through Tigrinya
  * ..
+ * The Essential Guide to Tigrinya (good overview, useful vocabulary) / Andrew Tadross
+ * Tigrinya Verb Conjugation: Dimstekal, Kokeb, Tadross, Andrew [ Example phrases quite useful ]
+ * hippocrenebooks :Tigrinya phrasebook
+
 
 ## Bilingual books
+
+http://www.tapbookauthor.com/bokbussenapp/Default.html : by GAN Aschehoug Publishing House : Online accessible children books, (With Audio, also of the Tigrinya version) in levels 1 .. 4 : where all the context is translated into several languages: The main language is Norwegian: Translations into : Tigrinya, English, Norwegian, Dari (Persian), Kurdish (Kurmanji), Pashto, an Arabic: [bokmål nynorsk engelsk dari kurdisk pashto arabisk tigrinja] see also : https://gan.aschehoug.no
+
+https://www.morsmal.no/ti/ - Another Norwegien blog with some entries in several languages: Tigrinya included
+https://www.morsmal.no/no/
+https://www.morsmal.no/ti/tigrinja-naturfag/8547-smak-barnetrinnet-tigrinja
+[ Arabisk العربية Dari دری Kurdisk Sorani کوردی Litauisk Lietuvių Pashto پښتو Persisk فارسی Polsk Polski Russisk Русский Somali Soomaali Spansk Español Tamil தமிழ் Thaiไ ทย Tigrinja ትግርኛ Tyrkisk Türkçe Urdu اردو]
 
 ## Learning Podcasts
 
@@ -84,4 +102,12 @@
  http://clu.uni.no/prod/bildetema-portal/index.html?page=simple-html5&version=swedish
 
 
+## Children Books online :
+
+http://art-of-buna.de/ethiopian-childrens-books/dance-saron-dance/?lang=en - PDF - Dance, Saron, Dance! – 14 4 short stories by Ethiopian authors (Translations to:  Tigrinya (Ethiopian orthography) , Amharic and Omoro) 
+
+http://art-of-buna.de/ethiopian-childrens-books/der-finderlohn-die-maus-und-herr-eichhorn/?lang=en - The Mouse and Mr Squirrel / The Reward – two traditional fairy tales from Ethiopia ( Translations : Tigrinya Oromo Amharic )
+
+
+##
 

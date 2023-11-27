@@ -1,4 +1,9 @@
 
+Podcasts:
+
+https://www.patreon.com/simplebulgarian/ - Simple-Bulgarian - Target language only podcast
+
+
 Glossika - Bulgarian
 
 

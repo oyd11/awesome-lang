@@ -1,6 +1,17 @@
 
 # general, multi-language:
 
+ * https://www.digitaldialects.com : useful basic vocabulary teaching games with audio : colour terminology, such lists:
+ : Afrikaans | Arabic | Chinese games | Croatian | Dutch | English | Filipino | Finnish games | French games - spelling| Hindi | Hungarian | Indonesian games | Irish | Italian | Korean | Javanese | Pashto | Polish games | Portuguese Brazilian | Portuguese European | Romanian | Russian | Spanish games - spelling | Sundanese | Tibetan | Tongan | Turkish | Urdu | Vietnamese : 
+In development (partial) -  Albanian | Bosnian| Catalan | Cebuano | Czech | Danish | Esperanto | Estonian | Farsi | Greek |Icelandic |K'iche' | Malay | Maltese |Norwegian |Serbian | Slovak | Slovene | Somali | Swedish | Welsh
+
+ * http://www.goethe-verlag.com :  Audio phrasebooks : an amazing resource, any pair:
+   AD Adyghe AF Afrikaans AM Amharic AR Arabic BE Belarusian BG Bulgarian BN Bengali BS Bosnian CA Catalan CS Czech DA Danish DE German EL Greek EM English US EO Esperanto ES Spanish ET Estonian FA Persian FI Finnish FR French HE Hebrew HI Hindi HR Croatian HU Hungarian HY Armenian ID Indonesian IT Italian JA Japanese KA Georgian KK Kazakh KN Kannada KO Korean LT Lithuanian LV Latvian MK Macedonian MR Marathi NL Dutch NN Norwegian - Nynorsk NO Norwegian PA Punjabi PL Polish PT Portuguese PT PX Portuguese BR RO Romanian RU Russian SK Slovak SL Slovene SQ Albanian SR Serbian SV Swedish TA Tamil TE Telugu TH Thai TI Tigrinya TR Turkish UK Ukrainian UR Urdu VI Vietnamese ZH Chinese
+
+
+-----
+
+
  * https://www.reddit.com/r/languagelearning/comments/5grr6e/language_learning_resources_900_gb_and_much_more/ - reddit feed, and sub-reddits : 
 
 
@@ -26,7 +37,7 @@ http://opus.nlpl.eu/OpenSubtitles2018.php - open-subtitles - as Aligned partext 
 * https://gloss.dliflc.edu/ - Global Language Online Support System
  Many transribed audio segments on various topics for learners:
  in :
-Albanian, Arabic-(Egyptian, Gulf, Iraqi, Levantine, MSA, Sudanese, Yemeni) Azerbaijani, Balochi, Chinese-Mandarin, Croatian, Dari, Farsi, French, German, Greek, Hausa, Hebrew, Hindi, Indonesian, Japanese, Korean, Kurmanji (Kurish), North-Korean, Pashto, Portuguese( Brazilian, European) Punjabi, Russian, Serbian, Somali, Sorani (Kurdish), Spanish, Swahili, Tagalog, Thai, Turkish, Turkmen, Urdu, Uzbek
+Albanian, Arabic-(Egyptian, Gulf, Iraqi, Levantine, MSA, Sudanese, Yemeni) Azerbaijani, Balochi, Chinese-Mandarin, Croatian, Dari, Farsi, French, German, Greek, Hausa, Hebrew, Hindi, Indonesian, Japanese, Korean, Kurmanji (Kurdish), North-Korean, Pashto, Portuguese( Brazilian, European) Punjabi, Russian, Serbian, Somali, Sorani (Kurdish), Spanish, Swahili, Tagalog, Thai, Turkish, Turkmen, Urdu, Uzbek
 
 
 https://www.transparent.com/personal/transparent-language-online.html#available-languages - paid course, an interesting resource: - Afrikaans Albanian Altai* Amharic Arabic* Arabic, Iraqi* Arabic, Levantine* Armenian* Azerbaijani,  Balinese* Balinese for Indonesian* Baluchi Bashkir* Belarusian* Bengali* Bosnian Breton Bulgarian* Buriat* Cambodian, Khmer Chechen Chinese, Cantonese Chinese, Mandarin* Cree Croatian Czech Dakota Dakota, Sisseton Danish Dari* Denesuline Dutch English Esperanto Estonian Farsi* Finnish French French, Canadian French for Arabic French for Portuguese French for Spanish Georgian* German German for Portuguese German for Spanish Greek* Haitian Creole Hausa Hawaiian Hebrew* Hindi* Hmong Hungarian Icelandic Indonesian Irish Italian Italian for Portuguese Italian for Spanish Japanese* Kalmyk Kazakh* Koasati Korean* Latin Latvian Lithuanian Luxembourgish Macedonian* Malagasy Malay Maori Mirandese Mongolian* Nepali Nogai Norwegian Oji-Cree Ojibwe Ojibwe, Central Ojibwe, Northwestern Pashto* Polish Portuguese, Brazilian Portuguese, European Portuguese for Spanish Romanian Russian* Scottish Gaelic Serbian* Slovak Somali Spanish Spanish, Castilian Spanish for Portuguese Swahili Swedish Tagalog Tajiki Tamil Thai* Turkish Turkmen Tuvan* Ukrainian* Urdu* Uzbek - Cyrillic Uzbek - Latin Vietnamese Welsh Welsh for English, British Wolof Yoruba Zulu 
@@ -48,5 +59,9 @@ Rough Guide Phrasebooks - The books are out of print - but Audio is posted free 
 
 
 https://LLL.ru -  ЖИВОЙ ЯЗЫК - living language - Russia - 
+
+
+
+https://universeofmemory.com/language-links-database/
 
 
