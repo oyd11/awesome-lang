@@ -1,8 +1,15 @@
 
 ## Mandarin (Chinese)
 
+https://mandarincorner.org - Mandarin-Corner - free videos and podcasts, with more paid content, a lot in Mandarin Chinese with subtitles and transcriptions and translations
+https://www.youtube.com/channel/UC2fAiRQHRQT9aj9P_ijYeow/
+
  * https://chinesefor.us - free + paid options, very nice fully subtitled videos (PinYin+Chars+English)
   * https://www.youtube.com/channel/UCgCrOLcWvSFl5K2ld0nKS7w
+
+
+ * https://www.maayot.com/ : Mandarin podcasts and stories, free plan includes one story per week:
+  ** https://www.listennotes.com/podcasts/maayot-learn-mandarin-chinese-with-stories-H5fv1uQxyG8/
 
 videos:
 Active chinese:
@@ -27,4 +34,22 @@ https://chinese.yabla.com/chinese-pinyin-chart.php - audio full PinYin chart !
 
 Accesible Grammar overview:
 https://resources.allsetlearning.com/chinese/grammar/
+
+https://resources.allsetlearning.com/chinese/grammar/Expressing_actions_in_progress_(full_form)
+https://resources.allsetlearning.com/chinese/grammar/Main_Page - Mandarine Chinese grammar wiki
+
+
+
+
+https://www.writtenchinese.com 
+http://dictionary.writtenchinese.com - Real good learners dictionary, characters + example phrases + compounds...
+
+
+
+https://mandarinhq.com/ - Mandarin-HQ - learn Mandarin from Street-intviews (some free, some paid)
+https://www.youtube.com/watch?v=p0jFSceGkcE&list=PLyNj2A-X57QFOw54J0QGYA13XkHExkgXU&index=21
+
+
+
+
 
