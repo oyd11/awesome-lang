@@ -8,4 +8,6 @@ http://www.jahanshiri.ir/ - Grammar
 https://www.youtube.com/channel/UCYRyoX3ru_BfMiXVCGgRS6w / http://www.learnpersianonline.com/farsi-tutor-reza/ - 
 Farsi Tutor Reza Nazari - youtube channel and blog by Reza Nazari - author of many Persian textbooks ("Learn Farsi in 100 Days", "Learn to Speak Persian Fast") 
 
+## Apps
 
+https://learn-persian.pages.dev/?utm_source=awesome_lang&utm_medium=organic&utm_campaign=persian_resources - Learn Farsi: Real Persian - freemium iPhone and Android app for spoken-first Persian lessons with romanisation, Persian script, audio, quizzes, handwriting practice, and cultural notes.
