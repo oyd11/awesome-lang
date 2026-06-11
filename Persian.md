@@ -10,4 +10,4 @@ Farsi Tutor Reza Nazari - youtube channel and blog by Reza Nazari - author of ma
 
 ## Apps
 
-https://learn-persian.pages.dev/?utm_source=awesome_lang&utm_medium=organic&utm_campaign=persian_resources - Learn Farsi: Real Persian - freemium iPhone and Android app for spoken-first Persian lessons with romanisation, Persian script, audio, quizzes, handwriting practice, and cultural notes.
+https://learn-persian.pages.dev/ - Learn Farsi: Real Persian - freemium iPhone and Android app for spoken-first Persian lessons with romanisation, Persian script, audio, quizzes, handwriting practice, and cultural notes.
