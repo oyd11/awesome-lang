@@ -1,4 +1,14 @@
 ## Tagalog / Filipino 
+
+
+Tagalog.com :
+ * Tagalog.com is creating a FREE online community with tools and content for students of the Tagalog / Filipino language of the Philippines!
+ * Dictionary, Podcast, Phrase/Word of the day + Lessons:
+ * https://www.tagalog.com/podcast/
+ * https://www.tagalog.com/lessons/
+ * https://www.tagalog.com/word-of-the-day/
+ * https://www.patreon.com/tagalog
+
  * http://learningtagalog.com
   -  "Essential Tagalog Grammar" / "Fiona De Vos" 
  * http://www.surfacelanguages.com/language/Tagalog.html
@@ -15,9 +25,15 @@ In celebration of “National Language Month”, Dalubhasa Review Center (DRC) l
 
 
 
+### Podcasts:
 http://talktagalog.com/
 Talk Tagalog - Learn Tagalog the Natural Way
 https://www.youtube.com/channel/UCSwNmy-4NJZHnJoDQUv1eRg
+ + podcast (beginner - Tagalog only constructed dialogues with text translations on the website)
+ + blog for learners 
+ + first 100 words + phrases in context phrasebook
+ + Paid support patreon support 
+ + In google podcasts: https://podcasts.google.com/feed/aHR0cHM6Ly90YWxrdGFnYWxvZy5jb20vZmVlZC9wb2RjYXN0Lw
 
 
 http://www.fsi-language-courses.net/fsi-tagalog-language-course/ - FSI - 'HeadStart' Tagalog course (audio + pdf)
@@ -46,4 +62,6 @@ Video  channels :
 
 http://www.tuttlepublishing.com/tagalog-for-beginners-downloadable-cd-content
 
+
+-------
 

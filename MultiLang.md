@@ -26,6 +26,17 @@
  * https://www.livelingua.com Index: - "FSI courses" , "Peace Corps Language Courses", "DLI Language Courses"
  * Colloquial Routeledge - free audio online (textbooks for sell)
 
+ * https://lingualism.com : by Matthew Aldrich: currently offering: Arabic (MSA, Levantine, Egyptian, various), Russian and Spanish. Free audio with paid PDF books (free sample chapters, hard-copies sold by Amazon) : Offers several Upper-Beginner titles, plus a unique Intermediate level series called "Voices" - where native speakers tell about their lives, and their oral-essays are fully transcribed and translated, specific vocabulary is explained. The Spanish "Voices" - has a variety of speakers from Spain and Latin-America. The
+   Arabic versions of "Voices" are avaiable both in MSA and in some of the local dialects.
+
+ * http://turkicum.com : by Elvin Allazov, 'Gateway to the Turkic world', but expanded to other languages as well.  current releases: Armenian Azerbaijani Bulgarian Croatian Georgian Kazakh Kyrgyz Polish Serbian Tajiki Turkish Ukrainian Uzbek. Free audio of all books online, book purchase links through the website to Amazon, digital versions - though the 'Kindle' store as an 'epub' book (not PDF for now), hard copies avaliable through Amazon or the Book-Depository. Books include practical
+   grammmar introductions, and text to follow the Audio with.
+  
+
+* https://www.learnwitholiver.com : CHINESE DANISH DUTCH FRENCH GERMAN GREEK ITALIAN JAPANESE KOREAN PORTUGUESE RUSSIAN SPANISH SWEDISH THAI, 
+ free Word-of-The-Day phrases after registeration (per language), and more material, and some paid servers services such as native-speakers going over your essays.
+
+
 ### Podcasts
  * Innovative Language
 
@@ -70,7 +81,72 @@ for example : tigrinya http://ttb.twr.org/tigrinya http://ttb.twr.org/ twi  http
 
  * Teach-Yourself
 
+----
+Audio course:
 
+ * https://linguaboost.com : useful conversational phrasebooks in several languages, MP3 + PDF, 30 lessons per level, 5 first lessons are a free download including a review track and a PDF file.
+ Sourced in English or Spanish for now. Current course list: 
+[  Albanian, Arabic (Syrian), Bengali, Chinese (Mandarin), French, German, Hindi, Italian, Japanese, Korean, Persian, Polish, Portuguese (Brazilian), Russian, Spanish, Swahili, Turkish ]
+
+
+----
+
+
+http://www.worldlanguage.com - an book store collecting multi-lingual books and textbooks in many languages, for example, Harry-Potter:
+http://www.worldlanguage.com/Languages/Lithuanian.htm
+(seems like automatic scanning, nice, but not done well enough, EG, I would expect something like this to map 'the little prince' and 'pippi longstockings' in many languages)
+
+
+----
+
+https://www.optilingo.com - Jonty Yamisha's websites :
+https://go.optilingo.com/ : App + mobile app (Android / iOS) : a spaced repetition system for : 
+ Arabic Chinese Circassian Danish Dutch French German Hindi Icelandic Italian Japanese Korean Norwegian Polish Portuguese Romanian Russian Spanish Swedish Turkish
+
+
+--------
+
+https://slaviccenters.duke.edu/projects/grammars   : 
+seelrc: See-LRC : | Slavica Publishers : http://www.seelrc.org : Duke University : Slavic and Eurasian Language Resource Center:
+Reference Grammar Network
+
+ * Refrence Grammars for several Slavic (and other) languages:
+  ** BCS-(Bosnian/Croatian/Serbian),	Bulgarian, Czech, Georgian, Macedonian, Polish, Romanian, Russian, Slovenian, Ukrainian
+ * Shorter grammars for :
+  ** Kazakh, Chechen, Wymysorys, Uzbek, Albanian, Romani 
+
+ [ https://slaviccenters.duke.edu/sites/slaviccenters.duke.edu/files/handbook_of_armenian.pdf ]
+ [ https://slaviccenters.duke.edu/sites/slaviccenters.duke.edu/files/site-images/2016_romanian_verbs_conjugated.pdf ]
+ [ https://slaviccenters.duke.edu/sites/slaviccenters.duke.edu/files/file-attachments/kazakh-grammar.pdf ]
+ [ https://slaviccenters.duke.edu/sites/slaviccenters.duke.edu/files/file-attachments/chechen-grammar.original.pdf ]
+ [ https://slaviccenters.duke.edu/sites/slaviccenters.duke.edu/files/media_items_files/wymysorys-grammar.original.pdf ]
+ [ https://slaviccenters.duke.edu/sites/slaviccenters.duke.edu/files/file-attachments/uzbek.original.pdf ]
+ [ http://www.seelrc.org:8080/grammar/pdf/albanian_bookmarked.pdf ]
+ [ http://www.seelrc.org:8080/grammar/pdf/romani_bookmarked.pdf ]
+ [ http://www.seelrc.org:8080/grammar/pdf/stand_alone_bulgarian.pdf ]
+ [ http://www.seelrc.org:8080/grammar/pdf/stand_alone_georgian.pdf ]
+ [ http://www.seelrc.org:8080/grammar/pdf/stand_alone_polish.pdf ] 
+ [ http://www.seelrc.org:8080/grammar/pdf/stand_alone_russian.pdf ]
+ [ http://www.seelrc.org:8080/grammar/pdf/stand_alone_romanian.pdf ]
+ [ http://www.seelrc.org:8080/grammar/pdf/stand_alone_czech.pdf ]
+ [ http://www.seelrc.org:8080/grammar/pdf/stand_alone_macedonian.pdf ] 
+ [ http://www.seelrc.org:8080/grammar/pdf/stand_alone_bcs.pdf ]
+ [ polish through film: http://www.seelrc.org:8080/polishctf/  ]
+ [ Advanced Russian student readings: https://slaviccenters.duke.edu/projects/advanced-russian-2 ]
+
+
+
+------
+
+## Writing systems training:
+
+* https://www.typingstudy.com : Touch-typing  -  free online training, in many keyboard maps : (qwerty, russian, hebrew, dvorak, georgian , arabic , thai , hindi ) 
+
+
+
+
+
+----
 
 
 ## TODO:

@@ -27,3 +27,12 @@ Georgian with Roni ::
 
 
 
+
+https://drive.google.com/file/d/1knKyZOA045JM4lmLDcVACkO4xN0U9eTR/view?fbclid=IwAR02nBIKT74jSAzvibAx6AauwZxh8ztFASFzPdSKgeMsHc6QHK9ZQrATnW8
+:  [ PDF ] 
+Georgian Proverbs and Idioms: 
+- A Guide -
+Angela, Kaitlin, and Kyle
+Peace Corps Georgia G14
+
+
