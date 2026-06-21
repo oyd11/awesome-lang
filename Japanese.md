@@ -21,6 +21,9 @@ Free study materials
 www.happylilac.net
 Free printables in japanese for any school subject
 
+www.japanesedrop.com
+Japanese Drop - Free daily Japanese sentences at three difficulty levels (beginner/intermediate/advanced) with audio and cultural tips, delivered by email.
+
 ## Podcasts
 www.kawakawalearningstudio.com
 Kawa-Kawa - podcasts for posters (for Japanese + Mandarin-Chinese btw)
