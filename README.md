@@ -16,10 +16,7 @@ https://github.com/sindresorhus/awesome/
 * [https://www.jw.org/en/publications/videos/#categories/AllVideos] and bible related videos in many languages
 * [EuroRomCom Data](https://github.com/kirkins/euroromcom) - JSON formatted Pan-Romance word lists & learning activities.
 
-
-
-
-
-
-
-
+# Dutch / Nederlands
+* [dutchgrammar.com](http://www.dutchgrammar.com/) - reference grammar site, articles with audio
+* [Dutch Daily de/het trainer](https://dutchdaily.app/de-or-het/) - look up de or het for 96,000 nouns, free, no account needed
+* [Een Beetje Nederlands](https://www.eenbeetjenederlands.nl/) - podcast in slow Dutch with free transcripts
