@@ -1,6 +1,8 @@
 
 # general, multi-language:
 
+ * [Recordar Palabras](https://recordarpalabras.com/en) - Save personal vocabulary and review it with spaced repetition on the web or iPhone; manual definitions and core practice are free, with optional paid AI definition generation.
+
  * https://www.digitaldialects.com : useful basic vocabulary teaching games with audio : colour terminology, such lists:
  : Afrikaans | Arabic | Chinese games | Croatian | Dutch | English | Filipino | Finnish games | French games - spelling| Hindi | Hungarian | Indonesian games | Irish | Italian | Korean | Javanese | Pashto | Polish games | Portuguese Brazilian | Portuguese European | Romanian | Russian | Spanish games - spelling | Sundanese | Tibetan | Tongan | Turkish | Urdu | Vietnamese : 
 In development (partial) -  Albanian | Bosnian| Catalan | Cebuano | Czech | Danish | Esperanto | Estonian | Farsi | Greek |Icelandic |K'iche' | Malay | Maltese |Norwegian |Serbian | Slovak | Slovene | Somali | Swedish | Welsh
@@ -63,5 +65,4 @@ https://LLL.ru -  ЖИВОЙ ЯЗЫК - living language - Russia -
 
 
 https://universeofmemory.com/language-links-database/
-
 
