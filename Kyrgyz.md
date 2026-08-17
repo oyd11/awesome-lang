@@ -8,7 +8,7 @@ everything below is free unless noted.
 
 * [Peace Corps Kyrgyz course (Live Lingua Project)](https://www.livelingua.com/project/peace-corps/Kyrgyz) — full course with audio, free PDF and MP3.
 * [CeLCAR Kyrgyz language portal, Indiana University](https://celcar.indiana.edu/materials/language-portal/kyrgyz.html) — academic description of the language and teaching materials.
-* [learn.kg](https://learn.kg/en) — A1/A2 course built around 1000+ phrases with native-speaker audio, spaced repetition and drills; free phrasebook, phrase translator and level test need no signup.
+* [learn.kg](https://learn.kg/en) — a course from scratch built around 1000+ phrases with native-speaker audio, spaced repetition and drills; levels A1–A2 are published and higher ones are being added. Free phrasebook, phrase translator and level test need no signup.
 
 ## Phrases and phrasebooks
 
