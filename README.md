@@ -11,6 +11,7 @@ the (mostly) programming related lists curated in
 https://github.com/sindresorhus/awesome/
 
 # multiple-langauges, including less well resourced
+* [PolyglotGym](https://polyglotgym.com) - Free CEFR-graded courses with grammar, audio and interactive exercises; unusually good coverage of less-resourced languages (Icelandic, Georgian, Belarusian, Mongolian, Luxembourgish, Tagalog), no signup needed to start.
 * [book2.de] 
 * [https://www.jw.org] - The bible - in many languages, parallel interlaced text on mobile app
 * [https://www.jw.org/en/publications/videos/#categories/AllVideos] and bible related videos in many languages
