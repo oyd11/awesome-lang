@@ -5,5 +5,5 @@ https://www.youtube.com/c/FrenchComprehensibleInput/ - French Comprehensible Inp
 : https://www.instagram.com/french_comprehensible_input/
 : https://tinyurl.com/wzanmg5 : google document with playlist, from A1 .. C1 levels.
 
-
+- [Tableau des 35 sons français](https://getparle.app/resources/tableau-35-sons-francais/) - Free interactive French sound chart with IPA, audio examples, spelling patterns, and printable CC BY 4.0 teacher materials.
 
