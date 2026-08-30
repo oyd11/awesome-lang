@@ -142,6 +142,8 @@ Reference Grammar Network
 
 * https://www.typingstudy.com : Touch-typing  -  free online training, in many keyboard maps : (qwerty, russian, hebrew, dvorak, georgian , arabic , thai , hindi ) 
 
+* https://krapka.app : Touch-typing on complete public-domain short stories, in the language they were written in - each story at three graded levels, every sentence with its own translation one tap below, and a slider that replaces any share of the visible letters with dots (so you move from copying the text to typing it from memory). 8 languages : (english, ukrainian, spanish, french, german, italian, portuguese, korean) , keyboard maps : (qwerty, colemak, colemak-dh, dvorak, workman, bepo, qwertz, neo2, korean dubeolsik, korean sebeolsik-390) - staggered or ortholinear display. Free tier, full stories $5/month.
+
 
 
 
