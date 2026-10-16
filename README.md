@@ -15,6 +15,7 @@ https://github.com/sindresorhus/awesome/
 * [https://www.jw.org] - The bible - in many languages, parallel interlaced text on mobile app
 * [https://www.jw.org/en/publications/videos/#categories/AllVideos] and bible related videos in many languages
 * [EuroRomCom Data](https://github.com/kirkins/euroromcom) - JSON formatted Pan-Romance word lists & learning activities.
+* [Bibooks](https://bibooks.org/languages) - Free bilingual read-along audiobooks in 49 languages, with parallel text and word-highlighted audio.
 
 
 
