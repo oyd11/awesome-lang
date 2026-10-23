@@ -44,6 +44,8 @@ https://resources.allsetlearning.com/chinese/grammar/Main_Page - Mandarine Chine
 https://www.writtenchinese.com 
 http://dictionary.writtenchinese.com - Real good learners dictionary, characters + example phrases + compounds...
 
+https://findchinesename.com - FindChineseName - suggests a native-style Chinese name (not a transliteration) with pinyin + character meanings, plus a 1000+ Chinese surname encyclopedia; basic result free, no account (optional paid report)
+
 
 
 https://mandarinhq.com/ - Mandarin-HQ - learn Mandarin from Street-intviews (some free, some paid)
