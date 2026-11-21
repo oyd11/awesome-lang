@@ -26,6 +26,8 @@ https://onlinelibrary.wiley.com/doi/full/10.1002/cae.21814
 
 https://www.opensubtitles.org
 
+ * https://getyoutubetranscript.com - turns the captions of a YouTube video into a timestamped transcript in the video's own language (any language it has captions in): read along, search for a phrase you heard, or download it as TXT / SRT / VTT for Anki or a subtitle player.
+
 http://opus.nlpl.eu/OpenSubtitles2018.php - open-subtitles - as Aligned partext structured data.
 
  * index 'So you want to learn a language ' 
