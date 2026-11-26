@@ -20,6 +20,8 @@ https://www.notesinspanish.com - quality free podcasts,natural language learning
 
 http://www.unlimitedspanish.com - 'Natural language learning' style - only target language with redundancy. (recommended by Piotr, from [realpolish :: polish]
 
+https://singalama.com - Original songs written for five learner levels, with line-by-line English, word meanings and grammar cards; freemium.
+
 
 ### Television:
 
